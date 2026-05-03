@@ -1,0 +1,25 @@
+state = {
+	id = 1047
+	name = "STATE_1047"
+	manpower = 7265029
+	buildings_max_level_factor = 1
+
+	state_category = megalopolis
+
+	history = {
+
+		owner = DDR
+		add_core_of = DDR
+
+		victory_points = {
+			6521 50 # Berlin
+		}
+
+	}
+
+	provinces = {
+		6521
+	}
+
+	local_supplies = 0.0 
+}
