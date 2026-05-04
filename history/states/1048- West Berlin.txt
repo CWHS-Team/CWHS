@@ -1,0 +1,24 @@
+state = {
+	id = 1048
+	name = "STATE_1048"
+	manpower = 7265029
+	buildings_max_level_factor = 1
+
+	state_category = megalopolis
+
+	history = {
+
+		owner = WGR
+		add_core_of = WGR
+
+		victory_points = {
+			13382 50 # Berlin
+		}
+	}
+
+	provinces = {
+		13382
+	}
+
+	local_supplies = 0.0 
+}
