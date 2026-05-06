@@ -1,5 +1,3 @@
-﻿capital = 908
+capital = 908
 
 OOB = "AFA_1936"
-
-# Starting tech
