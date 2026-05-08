@@ -55,24 +55,6 @@ type={
 	object={
 		name="ambient_water"
 		position={
-			3865.32992 10 555.21996 
-		}
-		rotation={
-			0 0 0 
-		}
-	}
-	object={
-		name="ambient_water"
-		position={
-			5465.92 10 559.67 
-		}
-		rotation={
-			0 0 0 
-		}
-	}
-	object={
-		name="ambient_water"
-		position={
 			685.15 10 1008.29 
 		}
 		rotation={
@@ -91,7 +73,25 @@ type={
 	object={
 		name="ambient_water"
 		position={
+			3865.32992 10 555.21996 
+		}
+		rotation={
+			0 0 0 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
 			5217.91008 10 1005.38 
+		}
+		rotation={
+			0 0 0 
+		}
+	}
+	object={
+		name="ambient_water"
+		position={
+			5465.92 10 559.67 
 		}
 		rotation={
 			0 0 0 
@@ -127,7 +127,7 @@ type={
 	object={
 		name="ambient_water"
 		position={
-			2427.3 10 1655.7 
+			5315.16 10 1328.67008 
 		}
 		rotation={
 			0 0 0 
@@ -136,7 +136,7 @@ type={
 	object={
 		name="ambient_water"
 		position={
-			5315.16 10 1328.67008 
+			2427.3 10 1655.7 
 		}
 		rotation={
 			0 0 0 
@@ -151,7 +151,7 @@ type={
 	object={
 		name="frame_border_entity_top"
 		position={
-			0 0 2442.8 
+			0 0 2190 
 		}
 		rotation={
 			0 0 0 
@@ -181,22 +181,24 @@ type={
 	object={
 		name="frame_border_logo_entity_top"
 		position={
-			3000 -1 2404 
+			3000 -1 2130 
 		}
 		rotation={
 			0 0 0 
 		}
 	}
 }
+
 type={
 	type="chinese_wall_entity"
 	use_animation=no
 	scale=0.200000
 	always_visible=yes
+	dlc_allowed = { has_dlc = "No Compromise, No Surrender" }
 	object={
 		name="chinese_wall"
 		position={
-			-0.8 0 1280 
+			-0.5 0 1024 
 		}
 		rotation={
 			0 0 0 
