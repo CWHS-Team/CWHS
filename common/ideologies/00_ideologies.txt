@@ -1,7 +1,7 @@
 ideologies = {
-	communist = {
+	communism = {
 		types = {
-			communist_subtype = {} #generic
+			communism_subtype = {} #generic
 		}
 		color = { 227 6 19 }
 
