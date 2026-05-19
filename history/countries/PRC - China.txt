@@ -1,0 +1,4 @@
+capital = 608 #Beijing
+
+#国家领导人 Country Leaders#
+recruit_character = PRC_mao_zedong

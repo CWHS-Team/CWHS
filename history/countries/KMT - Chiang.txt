@@ -1,0 +1,4 @@
+capital = 1035 # Nanjing
+
+#国家领导人 Country Leaders#
+recruit_character = KMT_chiang_kai_shek

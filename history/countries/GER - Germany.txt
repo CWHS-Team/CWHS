@@ -1,3 +1,0 @@
-
-capital = 64 # Berlin/Brandeburg
-

@@ -11,10 +11,10 @@ peace_action_modifiers = {
                 original_tag = RNG
             }
             ROOT = {
-                original_tag = CHI
+                original_tag = KMT
             }
         }
-        cost_multiplier = 0.75 # 25% cheaper for CHI to take from RNG 
+        cost_multiplier = 0.75 # 25% cheaper for KMT to take from RNG 
     }
 
 }

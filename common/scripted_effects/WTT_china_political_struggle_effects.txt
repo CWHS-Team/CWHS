@@ -122,7 +122,7 @@ WTT_restart_political_struggle = {
 WTT_save_country_as_event_target = {
 	if = {
 		limit = {
-			original_tag = CHI
+			original_tag = KMT
 		}
 		save_global_event_target_as = scope_CHI
 	}
@@ -167,7 +167,7 @@ WTT_save_country_as_event_target = {
 WTT_clear_country_event_target = {
 	if = {
 		limit = {
-			original_tag = CHI
+			original_tag = KMT
 		}
 		clear_global_event_target = scope_CHI
 	}

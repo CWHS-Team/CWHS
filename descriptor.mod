@@ -2,7 +2,7 @@ version="0.1"
 tags={
 	"Alternative History"
 }
-name="CWHS"
+name="冷战：最高阶段"
 replace_path="common/ai_navy/goals"
 replace_path="common/ai_navy/taskforce"
 replace_path="common/ai_strategy"

@@ -131,7 +131,7 @@ check_has_focus_tree_to_switch_to_fascism = {
 	}
 	NOT = {
 		AND = {
-			original_tag = CHI
+			original_tag = KMT
 			has_dlc =  "No Compromise, No Surrender"
 		}
 	}
@@ -174,7 +174,7 @@ check_has_focus_tree_to_switch_to_democratic = {
 	}
 	NOT = {
 		AND = {
-			original_tag = CHI 
+			original_tag = KMT 
 			has_dlc =  "No Compromise, No Surrender"
 		}
 	}

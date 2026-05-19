@@ -82,7 +82,7 @@ technologies = {
 
 			modifier = {
 				factor = 10
-				original_tag = CHI
+				original_tag = KMT
 
 				OR = {
 					date > 1937.1.1
@@ -140,7 +140,7 @@ technologies = {
 				factor = 5
 
 				OR = {
-					tag = CHI
+					tag = KMT
 					tag = PRC
 					tag = XSM
 					tag = SIK
@@ -1578,7 +1578,7 @@ technologies = {
 			modifier = {
 				factor = 15
 				OR = {
-					original_tag = CHI
+					original_tag = KMT
 					original_tag = PRC
 					original_tag = XSM
 					original_tag = SIK
@@ -1660,7 +1660,7 @@ technologies = {
 				factor = 5
 
 				OR = {
-					tag = CHI
+					tag = KMT
 					tag = PRC
 					tag = XSM
 					tag = SIK

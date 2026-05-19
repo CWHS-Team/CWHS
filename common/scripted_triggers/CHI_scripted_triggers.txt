@@ -12,11 +12,11 @@
 #		example_trigger = yes
 #	}
 # 
-#	THIS FILE IS FOR TRIGGERS SPECIFICALLY FOR THE CHI TAG
+#	THIS FILE IS FOR TRIGGERS SPECIFICALLY FOR THE KMT TAG
 
 is_independent_china_or_warlord = { #Does not include sinkiang
 	OR = {
-		original_tag = CHI
+		original_tag = KMT
 		original_tag = PRC
 		original_tag = GXC
 		original_tag = YUN
@@ -73,7 +73,7 @@ has_hyper_inflation = {
 
 is_literally_china = {
 	OR = {
-		original_tag = CHI
+		original_tag = KMT
 		original_tag = PRC
 		original_tag = GXC
 		original_tag = YUN
@@ -102,7 +102,7 @@ is_literally_china_tooltip = {
 
 is_literally_china_not_prc = { ## Needed for SEA MIO reasons
 	OR = {
-		original_tag = CHI
+		original_tag = KMT
 		original_tag = GXC
 		original_tag = YUN
 		original_tag = SHX

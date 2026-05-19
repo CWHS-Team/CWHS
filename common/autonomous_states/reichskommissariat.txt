@@ -65,11 +65,11 @@ autonomy_state = {
 			NOT = {
 				AND = {
 					OVERLORD = { has_government = fascism } 
-					OVERLORD = { tag = CHI } 
+					OVERLORD = { tag = KMT } 
 				}
 				AND = {
 					OVERLORD = { has_government = neutrality } 
-					OVERLORD = { tag = CHI } 
+					OVERLORD = { tag = KMT } 
 				}
 			}
 		}

@@ -1268,7 +1268,7 @@ awake_and_angry = {
 	id = 55
 	
 	possible = {
-		tag = CHI
+		tag = KMT
 		is_ironman = yes
 		difficulty > 1
 		has_start_date < 1936.01.02
@@ -1284,7 +1284,7 @@ awake_and_angry = {
 				OR = {
 					is_owned_by = ROOT
 					AND = {
-						NOT = { is_core_of = CHI }
+						NOT = { is_core_of = KMT }
 						NOT = { is_core_of = MAN }
 					}
 					state = 728
@@ -1300,7 +1300,7 @@ romance_of_the_three_kingdoms = {
 	id = 56
 	
 	possible = {
-		tag = CHI
+		tag = KMT
 		is_ironman = yes
 		difficulty > 1
 		has_start_date < 1936.01.02
@@ -1543,7 +1543,7 @@ battlecry = {
 				OR = {
 					is_owned_by = ROOT
 					AND = {
-						NOT = { is_core_of = CHI }
+						NOT = { is_core_of = KMT }
 						NOT = { is_core_of = MAN }
 						NOT = { is_core_of = JAP }
 					}
@@ -1619,7 +1619,7 @@ panda_monium = {
 			has_war_with = SIK
 		}
 
-		has_war_with = CHI
+		has_war_with = KMT
 		has_war_with = PRC
 	}
 }
@@ -2118,7 +2118,7 @@ assuming_direct_control = {
 				tag = FRA
 				tag = SOV
 				tag = JAP
-				tag = CHI
+				tag = KMT
 			}
 		}
 	}
@@ -2255,7 +2255,7 @@ portugal_macau_my_day = {
 			tooltip = portugal_macau_my_day_tt
 			any_country = {
 				OR = {
-					original_tag = CHI
+					original_tag = KMT
 					original_tag = PRC
 					original_tag = GXC
 					original_tag = YUN
@@ -2272,7 +2272,7 @@ portugal_macau_my_day = {
 					OR = {
 						is_owned_by = PREV
 						AND = {
-							NOT = { is_core_of = CHI }
+							NOT = { is_core_of = KMT }
 							NOT = { is_core_of = MAN }
 						}
 					}
@@ -7309,7 +7309,7 @@ master_infiltrator = {
 its_all_coming_together = {
 	id = 254
 	possible = {
-		tag = CHI
+		tag = KMT
 		is_ironman = yes
 		difficulty > 1
 		has_start_date < 1936.01.02
@@ -7320,7 +7320,7 @@ its_all_coming_together = {
 	happened = {
 		custom_trigger_tooltip = {
 			tooltip = its_all_coming_together_tt
-			CHI = {
+			KMT = {
 				all_of_scopes = {
 					array = global.PRC_starting_PRC_core_states
 					state_is_fully_controlled_by_ROOT_or_subject = yes
@@ -7333,7 +7333,7 @@ its_all_coming_together = {
 the_coast_is_clear = {
 	id = 255
 	possible = {
-		tag = CHI
+		tag = KMT
 		is_ironman = yes
 		difficulty > 1
 		has_start_date < 1936.01.02
@@ -7345,7 +7345,7 @@ the_coast_is_clear = {
 		custom_trigger_tooltip = {
 			tooltip = the_coast_is_clear_tt
 			date > 1945.9.2
-			CHI = {
+			KMT = {
 				NOT = { has_country_flag = CHI_lost_a_coastal_state }
 			}
 		}
@@ -7355,7 +7355,7 @@ the_coast_is_clear = {
 a_fullmetal_brotherhood = {
 	id = 256
 	possible = {
-		tag = CHI
+		tag = KMT
 		is_ironman = yes
 		difficulty > 1
 		has_start_date < 1936.01.02
@@ -7364,7 +7364,7 @@ a_fullmetal_brotherhood = {
 	}
 
 	happened = {
-		CHI = {
+		KMT = {
 			has_government = fascism
 			has_resources_in_country = {
 				resource = steel
@@ -7589,7 +7589,7 @@ genghis_khant = {
 	id = 264
 	possible = {
 		OR = {
-			tag = CHI
+			tag = KMT
 			tag = PRC
 			tag = GXC
 			tag = YUN
@@ -7618,7 +7618,7 @@ genghis_khant = {
 	happened = {
 		AND = {
 			OR = {
-				tag = CHI
+				tag = KMT
 				tag = PRC
 				tag = GXC
 				tag = YUN

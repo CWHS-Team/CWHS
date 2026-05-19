@@ -7,19 +7,19 @@
 		task_force = {
 			name = "Di 1 Jiandui"
 			location = 7014 #Shanghai
-			ship = { name = "Ninghai" definition = light_cruiser equipment = { ship_hull_cruiser_1 = {amount = 1 owner = CHI version_name = "Ninghai Class" } } }
+			ship = { name = "Ninghai" definition = light_cruiser equipment = { ship_hull_cruiser_1 = {amount = 1 owner = KMT version_name = "Ninghai Class" } } }
 			
 			
-			ship = { name = "Hairong" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
-			ship = { name = "Haichen" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
-			ship = { name = "Haichou" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
+			ship = { name = "Hairong" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = KMT version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
+			ship = { name = "Haichen" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = KMT version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
+			ship = { name = "Haichou" definition = light_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = KMT version_name = "Hai Yung Class" } } } # TOD_JNS - Fix name
 			
-			ship = { name = "Zhaohe" definition = heavy_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Chao Ho Class" } } } # TOD_JNS - Fix name
-			ship = { name = "Yingrui" definition = heavy_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = CHI version_name = "Chao Ho Class" } } } # TOD_JNS - Fix name
+			ship = { name = "Zhaohe" definition = heavy_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = KMT version_name = "Chao Ho Class" } } } # TOD_JNS - Fix name
+			ship = { name = "Yingrui" definition = heavy_cruiser equipment = { ship_hull_cruiser_coastal_defense_ship = {amount = 1 owner = KMT version_name = "Chao Ho Class" } } } # TOD_JNS - Fix name
 			
-			ship = { name = "Yu Chang" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI version_name = "Chiang Feng Class" } } } # TOD_JNS - Fix name
-			ship = { name = "Chien kang" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI  version_name = "Chiang Feng Class"} } } # TOD_JNS - Fix name
-			ship = { name = "Tung An" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = CHI  version_name = "Chiang Feng Class"} } } # TOD_JNS - Fix name
+			ship = { name = "Yu Chang" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = KMT version_name = "Chiang Feng Class" } } } # TOD_JNS - Fix name
+			ship = { name = "Chien kang" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = KMT  version_name = "Chiang Feng Class"} } } # TOD_JNS - Fix name
+			ship = { name = "Tung An" definition = destroyer equipment = { ship_hull_light_1 = {amount = 1 owner = KMT  version_name = "Chiang Feng Class"} } } # TOD_JNS - Fix name
 		}
 	}
 }
@@ -31,7 +31,7 @@ instant_effect = {
 	add_equipment_production = { 		# "Pinghai"
 		equipment = {
 			type = ship_hull_cruiser_1
-			creator = "CHI" 
+			creator = "KMT" 
 			version_name = "Ninghai Class"
 		}
 		name = "Pinghai" 

@@ -34,7 +34,7 @@ profile_pictures = {
 	# unlocked at 1500 CP
 	9 = {
 		icon = GFX_profile_picture_focus_chi_flying_tigers
-		tag = CHI
+		tag = KMT
 	}
 	10 = {
 		icon = GFX_profile_picture_focus_GRE_a_long_and_proud_tradition
@@ -43,7 +43,7 @@ profile_pictures = {
 	# unlocked at 2000 CP
 	11 = {
 		icon = GFX_profile_picture_focus_chi_legislative_yuan
-		tag = CHI
+		tag = KMT
 	}
 	12 = {
 		icon = GFX_profile_picture_focus_GRE_reviving_the_spartan_warrior_spirit
@@ -77,7 +77,7 @@ profile_pictures = {
 	}
 	19 = {
 		icon = GFX_profile_picture_focus_chi_whampoa_military_academy
-		tag = CHI
+		tag = KMT
 	}
 	20 = {
 		icon = GFX_profile_picture_focus_GRE_an_orthodox_state

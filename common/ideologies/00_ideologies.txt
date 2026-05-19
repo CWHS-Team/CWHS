@@ -1,34 +1,4 @@
 ideologies = {
-	marxism_leninism = {
-		types = {
-			communist_subtype = {} #generic
-		}
-		color = { 238 28 37 }
-
-		## Rules (identical for each ideology)
-		rules = {
-			can_force_government = yes
-			can_puppet = no
-			can_join_factions = no
-			can_create_factions = no
-			can_send_volunteers = yes
-		}
-		can_host_government_in_exile = no
-		can_collaborate = yes
-
-		## Modifiers (specific for this ideology)
-		modifiers = {
-			civilian_intel_to_others = 15.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 10.0
-			airforce_intel_to_others = 10.0
-		}
-		ai_fascist = yes
-		war_impact_on_world_tension = 1
-		ai_ideology_wanted_units_factor = 1.5
-		ai_give_core_state_control_threshold = 0 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
-	}
-
 	state_capitalism = {
 		types = {
 			state_capitalism_subtype = {} #generic
@@ -58,12 +28,12 @@ ideologies = {
 		ai_ideology_wanted_units_factor = 1.5
 		ai_give_core_state_control_threshold = 10 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
 	}
-
-	social_democracy = {
+	
+	marxism_leninism = {
 		types = {
-			social_democracy_subtype = {}
+			marxism_leninism_subtype = {} #generic
 		}
-		color = { 199 23 72 }
+		color = { 238 28 37 }
 
 		## Rules (identical for each ideology)
 		rules = {
@@ -78,10 +48,10 @@ ideologies = {
 
 		## Modifiers (specific for this ideology)
 		modifiers = {
-			civilian_intel_to_others = 20.0
-			army_intel_to_others = 5.0
-			navy_intel_to_others = 20.0
-			airforce_intel_to_others = 5
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
 		}
 		ai_fascist = yes
 		war_impact_on_world_tension = 1
@@ -119,11 +89,11 @@ ideologies = {
 		ai_give_core_state_control_threshold = 0 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
 	}
 
-	reactionism = {
+	social_democracy = {
 		types = {
-			reactionism_subtype = {}
+			social_democracy_subtype = {}
 		}
-		color = { 29 29 27 }
+		color = { 199 23 72 }
 
 		## Rules (identical for each ideology)
 		rules = {
@@ -138,15 +108,15 @@ ideologies = {
 
 		## Modifiers (specific for this ideology)
 		modifiers = {
-			civilian_intel_to_others = 15.0
-			army_intel_to_others = 10.0
-			navy_intel_to_others = 10.0
-			airforce_intel_to_others = 10.0
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
 		}
 		ai_fascist = yes
 		war_impact_on_world_tension = 1
 		ai_ideology_wanted_units_factor = 1.5
-		ai_give_core_state_control_threshold = 10 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
+		ai_give_core_state_control_threshold = 0 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
 	}
 
 	liberalism = {
@@ -177,5 +147,35 @@ ideologies = {
 		war_impact_on_world_tension = 1
 		ai_ideology_wanted_units_factor = 1.5	
 		ai_give_core_state_control_threshold = 0 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
+	}
+
+	reactionism = {
+		types = {
+			reactionism_subtype = {}
+		}
+		color = { 29 29 27 }
+
+		## Rules (identical for each ideology)
+		rules = {
+			can_force_government = yes
+			can_puppet = no
+			can_join_factions = no
+			can_create_factions = no
+			can_send_volunteers = yes
+		}
+		can_host_government_in_exile = no
+		can_collaborate = yes
+
+		## Modifiers (specific for this ideology)
+		modifiers = {
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+		}
+		ai_fascist = yes
+		war_impact_on_world_tension = 1
+		ai_ideology_wanted_units_factor = 1.5
+		ai_give_core_state_control_threshold = 10 # Extra threshold value added to DIPLOMATIC_ACTION_PROPOSE_SCORE for this ideology to give back core state control to other country
 	}
 }

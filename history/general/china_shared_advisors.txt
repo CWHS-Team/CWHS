@@ -117,7 +117,7 @@
 #			}
 #			allowed  = {
 #				OR = {
-#					original_tag  = CHI
+#					original_tag  = KMT
 #					is_chinese_warlord = yes 
 #				}
 #				NOT  = {
@@ -145,7 +145,7 @@
 #			}
 #			allowed  = {
 #				OR = {
-#					original_tag = CHI
+#					original_tag = KMT
 #					is_chinese_warlord = yes 
 #				}
 #				has_dlc = "La Resistance"
@@ -198,7 +198,7 @@
 #			}
 #			allowed  = {
 #				OR = {
-#					original_tag = CHI
+#					original_tag = KMT
 #					is_chinese_warlord = yes 
 #				}
 #				has_dlc = "Waking the Tiger"
@@ -252,7 +252,7 @@
 #			}
 #			allowed = {
 #				OR = {
-#					original_tag = CHI
+#					original_tag = KMT
 #					is_chinese_warlord = yes
 #				}
 #			}

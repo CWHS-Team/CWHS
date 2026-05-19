@@ -20,9 +20,9 @@ peace_ai_desires = {
         peace_action_type = take_states
         enable = {
             FROM.FROM.FROM = {
-                is_core_of = CHI
+                is_core_of = KMT
             }
-            ROOT = { original_tag = CHI }
+            ROOT = { original_tag = KMT }
         }
         ai_desire = 150
     }

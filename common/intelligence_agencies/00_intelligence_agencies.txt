@@ -226,8 +226,8 @@ intelligence_agency = {
 	picture = GFX_intelligence_agency_logo_chi
 	names = { "NBIS" }
 	
-	default = { tag = CHI }
-	available = { original_tag = CHI }
+	default = { tag = KMT }
+	available = { original_tag = KMT }
 }
 
 intelligence_agency = {
@@ -238,7 +238,7 @@ intelligence_agency = {
 	default = {
 		is_literally_china = yes
 		NOT = {
-			original_tag = CHI
+			original_tag = KMT
 			original_tag = PRC
 		}
 		NOT = {
@@ -248,7 +248,7 @@ intelligence_agency = {
 	available = { 
 		is_literally_china = yes
 		NOT = {
-			original_tag = CHI
+			original_tag = KMT
 			original_tag = PRC
 		}
 		NOT = {
@@ -265,7 +265,7 @@ intelligence_agency = {
 	default = {
 		is_literally_china = yes
 		NOT = {
-			original_tag = CHI
+			original_tag = KMT
 			original_tag = PRC
 		}
 		has_government = communism
@@ -273,7 +273,7 @@ intelligence_agency = {
 	available = {
 		is_literally_china = yes
 		NOT = {
-			original_tag = CHI
+			original_tag = KMT
 			original_tag = PRC
 		}
 		has_government = communism

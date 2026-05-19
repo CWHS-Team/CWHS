@@ -1,0 +1,10 @@
+characters = {
+	#国家领导人 Country Leaders
+	KMT_chiang_kai_shek = {
+		name = KMT_chiang_kai_shek
+		country_leader = {
+			desc = KMT_chiang_kai_shek_leader_desc
+			ideology = reactionism_subtype
+		}	
+	}
+}		

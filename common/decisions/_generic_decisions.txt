@@ -2005,7 +2005,7 @@ war_measures = {
 			}
 			modifier = {
 				factor = 0
-				original_tag = CHI 
+				original_tag = KMT 
 				amount_taken_ideas = {
 					amount < 1
 					slots = {
@@ -2337,8 +2337,8 @@ foreign_support = {
 			is_subject = no
 			NOT = {
 				OR = {
-					has_subject = CHI
-					has_war_with = CHI
+					has_subject = KMT
+					has_war_with = KMT
 				}
 			}
 			OR = {
@@ -2499,8 +2499,8 @@ foreign_support = {
 			is_subject = no
 			NOT = {
 				OR = {
-					has_subject = CHI
-					has_war_with = CHI
+					has_subject = KMT
+					has_war_with = KMT
 				}
 			}
 			OR = {
@@ -2696,8 +2696,8 @@ foreign_support = {
 			is_subject = no
 			NOT = {
 				OR = {
-					has_subject = CHI
-					has_war_with = CHI
+					has_subject = KMT
+					has_war_with = KMT
 				}
 			}
 			OR = {
@@ -2858,8 +2858,8 @@ foreign_support = {
 			is_subject = no
 			NOT = {
 				OR = {
-					has_subject = CHI
-					has_war_with = CHI
+					has_subject = KMT
+					has_war_with = KMT
 				}
 			}
 			OR = {
@@ -3056,8 +3056,8 @@ foreign_support = {
  			is_subject = no
  			NOT = {
  				OR = {
- 					has_subject = CHI
- 					has_war_with = CHI
+ 					has_subject = KMT
+ 					has_war_with = KMT
  				}
  			}
 			OR = {
@@ -3194,8 +3194,8 @@ foreign_support = {
  			is_subject = no
  			NOT = {
  				OR = {
- 					has_subject = CHI
- 					has_war_with = CHI
+ 					has_subject = KMT
+ 					has_war_with = KMT
  				}
  			}
 			OR = {
@@ -3368,8 +3368,8 @@ foreign_support = {
 			is_subject = no
 			NOT = {
 				OR = {
-					has_subject = CHI
-					has_war_with = CHI
+					has_subject = KMT
+					has_war_with = KMT
 				}
 			}
 			OR = {

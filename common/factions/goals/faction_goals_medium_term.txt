@@ -624,7 +624,7 @@ faction_goal_the_northern_mandate = {
 	}
 	visible = {
 		FROM = {
-			original_tag = CHI
+			original_tag = KMT
 			has_government = fascism
 		}
 	}
@@ -669,7 +669,7 @@ faction_goal_the_southern_mandate = {
 	}
 	visible = {
 		FROM = {
-			original_tag = CHI
+			original_tag = KMT
 			has_government = fascism
 		}
 	}
@@ -714,7 +714,7 @@ faction_goal_the_greater_game = {
 	}
 	visible = {
 		FROM = {
-			original_tag = CHI
+			original_tag = KMT
 			has_government = fascism
 		}
 	}

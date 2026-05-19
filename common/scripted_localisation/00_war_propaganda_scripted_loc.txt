@@ -236,10 +236,10 @@ defined_text = {
 				limit = {
 					is_major = yes
 				}
-				tag = CHI
+				tag = KMT
 			}
 			else = {
-				is_in_faction_with = CHI
+				is_in_faction_with = KMT
 			}
 		}
 		random_list = {

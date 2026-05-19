@@ -160,7 +160,7 @@ MAN_alternate_plan_independent = {
 	}
 	ai_strategy = {
 		type = conquer 
-		id = "CHI"			
+		id = "KMT"			
 		value = 200
 	}
 	ai_strategy = {

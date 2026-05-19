@@ -92,7 +92,7 @@ USA_alternate_plan_1 = {
 
 	ai_strategy = {
 		type = support
-		id = "CHI"			
+		id = "KMT"			
 		value = 200
 	}
 
@@ -207,7 +207,7 @@ USA_alternate_plan_2 = {
 
 	ai_strategy = {
 		type = support
-		id = "CHI"			
+		id = "KMT"			
 		value = 200
 	}
 

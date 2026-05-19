@@ -207,7 +207,7 @@ SOV_morozov_design_bureau_organization = {
 		IF = {
 			limit = {
 				has_dlc = "No Compromise, No Surrender"
-				FROM = { original_tag = CHI }
+				FROM = { original_tag = KMT }
 			}
 			FROM = { 
 				OR ={
@@ -342,7 +342,7 @@ SOV_astrov_design_bureau_organization = {
 		OR = {
 			original_tag = SOV
 			AND = {
-				original_tag = CHI
+				original_tag = KMT
 				has_dlc = "No Compromise, No Surrender"
 			}
 		}	
@@ -357,7 +357,7 @@ SOV_astrov_design_bureau_organization = {
 
 		IF = {
 			limit = {
-				FROM = { original_tag = CHI }
+				FROM = { original_tag = KMT }
 			}
 			FROM = { has_country_flag = SOV_accepted_Astrov }
 		}
@@ -366,7 +366,7 @@ SOV_astrov_design_bureau_organization = {
 		IF = {
 			limit = {
 				has_dlc = "No Compromise, No Surrender"
-				FROM = { original_tag = CHI }
+				FROM = { original_tag = KMT }
 			}
 			FROM = { 
 				OR ={
@@ -505,7 +505,7 @@ SOV_okmo_organization = {
 				has_dlc = "Battle for the Bosporus"
 			}
 			AND = {
-				FROM = { original_tag = CHI }
+				FROM = { original_tag = KMT }
 				has_dlc = "No Compromise, No Surrender"
 			}
 		}
@@ -539,7 +539,7 @@ SOV_okmo_organization = {
 		}
 		IF = {
 			limit = {
-				FROM = { original_tag = CHI }
+				FROM = { original_tag = KMT }
 			}
 			FROM = { has_country_flag = SOV_accepted_OKMO }
 		}
@@ -548,7 +548,7 @@ SOV_okmo_organization = {
 		IF = {
 			limit = {
 				has_dlc = "No Compromise, No Surrender"
-				FROM = { original_tag = CHI }
+				FROM = { original_tag = KMT }
 			}
 			FROM = { 
 				OR ={
