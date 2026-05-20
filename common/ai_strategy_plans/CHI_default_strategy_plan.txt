@@ -3,7 +3,7 @@ CHI_default_plan = {
 	desc = "Default behavior for Nationalist China"
 
 	allowed = {
-		original_tag = CHI
+		original_tag = KMT
 	}
 	enable = {
 
@@ -42,7 +42,7 @@ CHI_industrial_buildup = {
 	}
 	enable = {
 		OR = {
-			original_tag = CHI
+			original_tag = KMT
 			AND = {
 				is_chinese_warlord = yes
 				has_focus_tree = china_nationalist_focus
@@ -92,7 +92,7 @@ CHI_inflation_handling = {
 	}
 	enable = {
 		OR = {
-			original_tag = CHI
+			original_tag = KMT
 			AND = {
 				is_chinese_warlord = yes
 				has_focus_tree = china_nationalist_focus
@@ -148,7 +148,7 @@ CHI_army_reform = {
 	desc = "Teaches the AI to reform the Army if at war"
 
 	allowed = {
-		original_tag = CHI
+		original_tag = KMT
 	}
 	enable = {
 		has_war = yes
@@ -196,7 +196,7 @@ CHI_war_measures = {
 	}
 	enable = {
 		OR = {
-			original_tag = CHI
+			original_tag = KMT
 			AND = {
 				is_chinese_warlord = yes
 				has_focus_tree = china_nationalist_focus
@@ -610,7 +610,7 @@ CHI_european_allies = { #used to make minor European nations like Axis more
 
 	ai_strategy = {
 		type = alliance
-		id = "CHI"
+		id = "KMT"
 		value = -500
 	}
 	ai_strategy = {

@@ -1,3 +1,20 @@
 capital = 361 # Washington DC
 
-oob = "USA_1936"
+#国家领导人 Country Leaders#
+recruit_character = USA_harry_truman
+#政治
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1948.11.2"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	marxism_leninism = 1
+	nationalism = 0
+	social_democracy = 2
+	liberalism = 95
+	reactionism = 2
+	state_capitalism = 0
+}

@@ -1,0 +1,23 @@
+﻿l_simp_chinese:
+# 国家名称
+USA: "美利坚合众国"
+USA_ADJ: "美国"
+USA_DEF: "美利坚合众国" 
+# 党派
+USA_marxism_leninism_party: "美国共产党"
+USA_marxism_leninism_party_long: "美利坚合众国共产党"
+USA_state_capitalism_party: "民主党"
+USA_state_capitalism_party_long: "民主党"
+USA_social_democracy_party: "美国进步党"
+USA_social_democracy_party_long: "美国进步党"
+USA_nationalism_party: "民主党"
+USA_nationalism_party_long: "民主党"
+USA_liberalism_party: "民主党"
+USA_liberalism_party_long: "民主党"
+USA_reactionism_party: "民主党"   
+USA_reactionism_party_long: "民主党" 
+# 国家领导人
+USA_harry_truman: "哈里·杜鲁门"
+USA_harry_truman_leader_desc: "§Y美利坚合众国总统§!\n\n杜鲁门出生于农场主家庭，未接受过高等教育，高中毕业后从事文职工作。一战期间，靠着秘密地记诵视力检查表通过体能测试、成为军官并赴法国参与战斗。回国后，自营过服装行业，最终破产。1922年，在家乡密苏里州担任县法官，进入政界；1935年，成为该州联邦参议员。二战初期，杜鲁门曾在参议院领导一个调查军方纪律的委员会。\n\n1945年，依靠党内妥协上位担任副总统，仅89天后继任总统。同年授权在日本投下两颗原子弹，残酷地夺去了几十万日本人民的生命。1948年，杜鲁门建立了特务机关中央情报局，到处阴谋策划政变、暗杀，进行恐怖破坏，企图在各国建立亲美独裁政府。同年，杜鲁门勾结犹太复国主义，制造了阿拉伯地区和平的主要敌人和侵略者以色列，发动第一次中东战争。其借助犹太资本掌控的媒体于1948年连任总统。杜鲁门鼓吹所谓“杜鲁门主义”，挑起美苏对抗，在国际上加紧实施反共反人民的反动措施。" 
+#国策
+#事件

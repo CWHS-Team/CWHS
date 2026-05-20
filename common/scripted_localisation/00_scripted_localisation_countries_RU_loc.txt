@@ -1,4 +1,5 @@
-#################################################################################################################################################
+
+#################################################################################################################################################
 ############################ HOI4 Automated Scripted Localization French by Native Prime ########################################################
 ############################ Version Date: 10.11.2025 ###########################################################################################
 
@@ -7056,13 +7057,13 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_integrated_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
@@ -7247,7 +7248,7 @@ defined_text = {
 		localization_key = LBA_ITA_fascism_autonomy_reichsprotectorate_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			is_subject_of = JAP
 			has_government = fascism
@@ -7440,19 +7441,19 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
@@ -8576,7 +8577,7 @@ defined_text = {
 		localization_key = ZIM_GER_autonomy_colony_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			is_subject_of = GER
 			has_autonomy_state = autonomy_reichsprotectorate
@@ -9467,7 +9468,7 @@ defined_text = {
 		localization_key = MNT_YUG_subject_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			is_subject_of = PRC
 		}
@@ -9727,11 +9728,11 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						has_autonomy_state = autonomy_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						has_autonomy_state = autonomy_supervised_state
 				}
@@ -9754,14 +9755,14 @@ defined_text = {
 		localization_key = GER_autonomy_puppet_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_colony
 		}
 		localization_key = CHI_autonomy_colony_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_integrated_puppet
 		}
@@ -9839,21 +9840,21 @@ defined_text = {
 		localization_key = ICE_autonomy_aat_defense_council_member_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_dominion
 		}
 		localization_key = CHI_autonomy_dominion_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_reichsprotectorate
 		}
 		localization_key = CHI_autonomy_reichsprotectorate_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_reichskommissariat
 		}
@@ -13541,7 +13542,7 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						has_government = neutrality
 				}
@@ -15046,7 +15047,7 @@ defined_text = {
 		localization_key = KEN_communism_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_government = communism
 		}
@@ -15151,7 +15152,7 @@ defined_text = {
 		localization_key = CMR_fascism_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_government = fascism
 		}
@@ -16683,7 +16684,7 @@ defined_text = {
 		localization_key = CYP_democratic_RU_Gen
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_government = democratic
 		}
@@ -20622,7 +20623,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					original_tag = CHI
 					original_tag = MAN
 					original_tag = PRC
@@ -28825,13 +28826,13 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_integrated_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
@@ -29016,7 +29017,7 @@ defined_text = {
 		localization_key = LBA_ITA_fascism_autonomy_reichsprotectorate_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			is_subject_of = JAP
 			has_government = fascism
@@ -29209,19 +29210,19 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
@@ -30345,7 +30346,7 @@ defined_text = {
 		localization_key = ZIM_GER_autonomy_colony_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			is_subject_of = GER
 			has_autonomy_state = autonomy_reichsprotectorate
@@ -31236,7 +31237,7 @@ defined_text = {
 		localization_key = MNT_YUG_subject_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			is_subject_of = PRC
 		}
@@ -31501,14 +31502,14 @@ defined_text = {
 		localization_key = GER_autonomy_puppet_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_colony
 		}
 		localization_key = CHI_autonomy_colony_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_integrated_puppet
 		}
@@ -31574,11 +31575,11 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						has_autonomy_state = autonomy_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						has_autonomy_state = autonomy_supervised_state
 				}
@@ -31608,21 +31609,21 @@ defined_text = {
 		localization_key = ICE_autonomy_aat_defense_council_member_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_dominion
 		}
 		localization_key = CHI_autonomy_dominion_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_reichsprotectorate
 		}
 		localization_key = CHI_autonomy_reichsprotectorate_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 			original_tag = CHI
 			has_autonomy_state = autonomy_reichskommissariat
 		}
@@ -35201,7 +35202,8 @@ defined_text = {
 		}
 		localization_key = QUE_neutrality_RU_Dat
 	}
-	text = {
+
+	text = {
 		trigger = {
 			original_tag = QUE
 			has_government = democratic
@@ -35309,7 +35311,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					AND = {
 						original_tag = CHI
 						has_government = neutrality
@@ -36759,7 +36761,7 @@ defined_text = {
 		}
 		localization_key = KEN_communism_RU_Dat
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_government = communism
@@ -36960,7 +36962,7 @@ defined_text = {
 		}
 		localization_key = CMR_fascism_RU_Dat
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_government = fascism
@@ -38452,7 +38454,7 @@ defined_text = {
 		}
 		localization_key = CYP_democratic_RU_Dat
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_government = democratic
@@ -42391,7 +42393,7 @@ defined_text = {
 		localization_key = KYR_RU_Dat
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					original_tag = CHI
 					original_tag = MAN
@@ -50595,13 +50597,13 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_integrated_puppet
-				}
+				}KMT
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
@@ -50786,7 +50788,7 @@ defined_text = {
 		}
 		localization_key = LBA_ITA_fascism_autonomy_reichsprotectorate_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			is_subject_of = JAP
@@ -50979,19 +50981,19 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_puppet
-				}
+				}KMT
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichsprotectorate
-				}
+				}KMT
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
@@ -52115,7 +52117,7 @@ defined_text = {
 		}
 		localization_key = ZIM_GER_autonomy_colony_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			is_subject_of = GER
@@ -53006,7 +53008,7 @@ defined_text = {
 		}
 		localization_key = MNT_YUG_subject_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			is_subject_of = PRC
@@ -53266,11 +53268,11 @@ defined_text = {
 ##### Country Tag (1) + Autonomy	50 #####
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_puppet
-				}
+				}KMT
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_supervised_state
@@ -53293,14 +53295,14 @@ defined_text = {
 		}
 		localization_key = GER_autonomy_puppet_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_colony
 		}
 		localization_key = CHI_autonomy_colony_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_integrated_puppet
@@ -53378,21 +53380,21 @@ defined_text = {
 		}
 		localization_key = ICE_autonomy_aat_defense_council_member_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_dominion
 		}
 		localization_key = CHI_autonomy_dominion_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_reichsprotectorate
 		}
 		localization_key = CHI_autonomy_reichsprotectorate_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_reichskommissariat
@@ -57066,7 +57068,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					AND = {
 						original_tag = CHI
 						has_government = neutrality
@@ -58564,7 +58566,7 @@ defined_text = {
 		}
 		localization_key = KEN_communism_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_government = communism
@@ -58683,7 +58685,7 @@ defined_text = {
 		}
 		localization_key = CMR_fascism_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_government = fascism
@@ -60222,7 +60224,7 @@ defined_text = {
 		}
 		localization_key = CYP_democratic_RU_Acc
 	}
-	text = {
+	text = {KMT
 		trigger = {
 			original_tag = CHI
 			has_government = democratic
@@ -64161,7 +64163,7 @@ defined_text = {
 		localization_key = KYR_RU_Acc
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					original_tag = CHI
 					original_tag = MAN
@@ -69767,7 +69769,8 @@ defined_text = {
 		}
 		localization_key = PHI_manila_tag_neutrality_RU_Inst
 	}
-	text = {
+
+	text = {
 		trigger = {
 			has_cosmetic_tag = AFG_khorasan
 			has_government = democratic
@@ -72364,13 +72367,13 @@ defined_text = {
 		localization_key = FRA_GER_fascism_autonomy_reichsprotectorate_RU_Inst
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
-						has_autonomy_state = autonomy_integrated_puppet
+						has_autonomy_stKMT = autonomy_integrated_puppet
 				}
 					AND = {
 						original_tag = CHI
@@ -72555,7 +72558,7 @@ defined_text = {
 			}
 		}
 		localization_key = LBA_ITA_fascism_autonomy_reichsprotectorate_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -72748,19 +72751,19 @@ defined_text = {
 		localization_key = MAN_JAP_fascism_autonomy_wtt_imperial_subject_RU_Inst
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
-						has_autonomy_state = autonomy_puppet
+						has_autonomy_stKMT = autonomy_puppet
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
-						has_autonomy_state = autonomy_reichsprotectorate
+						has_autonomy_stKMT = autonomy_reichsprotectorate
 				}
 					AND = {
 						original_tag = CHI
@@ -73884,7 +73887,7 @@ defined_text = {
 			has_autonomy_state = autonomy_colony
 		}
 		localization_key = ZIM_GER_autonomy_colony_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -74775,7 +74778,7 @@ defined_text = {
 			is_subject_of = YUG
 		}
 		localization_key = MNT_YUG_subject_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -75035,11 +75038,11 @@ defined_text = {
 
 ##### Country Tag (1) + Autonomy	50 #####
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
-						has_autonomy_state = autonomy_puppet
+						has_autonomy_stKMT = autonomy_puppet
 				}
 					AND = {
 						original_tag = CHI
@@ -75062,14 +75065,14 @@ defined_text = {
 			has_autonomy_state = autonomy_puppet
 		}
 		localization_key = GER_autonomy_puppet_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_colony
 		}
 		localization_key = CHI_autonomy_colony_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -75147,21 +75150,21 @@ defined_text = {
 			has_autonomy_state = autonomy_aat_defense_council_member
 		}
 		localization_key = ICE_autonomy_aat_defense_council_member_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_dominion
 		}
 		localization_key = CHI_autonomy_dominion_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_reichsprotectorate
 		}
 		localization_key = CHI_autonomy_reichsprotectorate_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -78835,7 +78838,7 @@ defined_text = {
 		localization_key = KYR_communism_RU_Inst
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
@@ -80298,7 +80301,7 @@ defined_text = {
 			has_government = communism
 		}
 		localization_key = KEN_communism_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -80459,7 +80462,7 @@ defined_text = {
 			has_government = fascism
 		}
 		localization_key = CMR_fascism_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -81991,7 +81994,7 @@ defined_text = {
 			has_government = democratic
 		}
 		localization_key = CYP_democratic_RU_Inst
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -85930,7 +85933,7 @@ defined_text = {
 		}
 		localization_key = KYR_RU_Inst
 	}
-	text = {
+	text = {KMT
 		trigger = {
 				OR = {
 					original_tag = CHI
@@ -94134,13 +94137,13 @@ defined_text = {
 		localization_key = FRA_GER_fascism_autonomy_reichsprotectorate_RU_Prep
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
-						has_autonomy_state = autonomy_integrated_puppet
+						has_autonomy_stKMT = autonomy_integrated_puppet
 				}
 					AND = {
 						original_tag = CHI
@@ -94325,7 +94328,7 @@ defined_text = {
 			}
 		}
 		localization_key = LBA_ITA_fascism_autonomy_reichsprotectorate_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -94518,19 +94521,19 @@ defined_text = {
 		localization_key = MAN_JAP_fascism_autonomy_wtt_imperial_subject_RU_Prep
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
-						has_autonomy_state = autonomy_puppet
+						has_autonomy_stKMT = autonomy_puppet
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
-						has_autonomy_state = autonomy_reichsprotectorate
+						has_autonomy_stKMT = autonomy_reichsprotectorate
 				}
 					AND = {
 						original_tag = CHI
@@ -95654,7 +95657,7 @@ defined_text = {
 			has_autonomy_state = autonomy_colony
 		}
 		localization_key = ZIM_GER_autonomy_colony_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -96545,7 +96548,7 @@ defined_text = {
 			is_subject_of = YUG
 		}
 		localization_key = MNT_YUG_subject_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -96803,14 +96806,14 @@ defined_text = {
 		localization_key = YUN_autonomy_sea_warlord_subject_RU_Prep
 	}
 
-##### Country Tag (1) + Autonomy	50 #####
+##### Country Tag KMT + Autonomy	50 #####
 	text = {
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_colony
 		}
 		localization_key = CHI_autonomy_colony_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -96819,11 +96822,11 @@ defined_text = {
 		localization_key = CHI_autonomy_integrated_puppet_RU_Prep
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
-						has_autonomy_state = autonomy_puppet
+						has_autonomy_stKMT = autonomy_puppet
 				}
 					AND = {
 						original_tag = CHI
@@ -96917,21 +96920,21 @@ defined_text = {
 			has_autonomy_state = autonomy_aat_defense_council_member
 		}
 		localization_key = ICE_autonomy_aat_defense_council_member_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_dominion
 		}
 		localization_key = CHI_autonomy_dominion_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
 			has_autonomy_state = autonomy_reichsprotectorate
 		}
 		localization_key = CHI_autonomy_reichsprotectorate_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -100787,7 +100790,7 @@ defined_text = {
 		localization_key = KYR_communism_RU_Prep
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
@@ -102250,7 +102253,7 @@ defined_text = {
 			has_government = communism
 		}
 		localization_key = KEN_communism_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -102451,7 +102454,7 @@ defined_text = {
 			has_government = fascism
 		}
 		localization_key = CMR_fascism_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -103761,7 +103764,7 @@ defined_text = {
 			has_government = democratic
 		}
 		localization_key = CYP_democratic_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 			original_tag = CHI
@@ -104948,7 +104951,8 @@ defined_text = {
 		}
 		localization_key = SCO_communism_RU_Prep
 	}
-	text = {
+
+	text = {
 		trigger = {
 			original_tag = CAT
 			has_government = communism
@@ -107717,7 +107721,7 @@ defined_text = {
 			original_tag = KYR
 		}
 		localization_key = KYR_RU_Prep
-	}
+	}KMT
 	text = {
 		trigger = {
 				OR = {
@@ -113288,19 +113292,19 @@ defined_text = {
 					AND = {
 						original_tag = BEL
 						is_subject_of = GER
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_colony
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_integrated_puppet
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_reichskommissariat
 				}
 					AND = {
@@ -113482,19 +113486,19 @@ defined_text = {
 					AND = {
 						original_tag = BEL
 						is_subject_of = GER
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_satellite
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_puppet
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
 					AND = {
@@ -113639,7 +113643,7 @@ defined_text = {
 				}
 					AND = {
 						original_tag = BOT
-						is_subject_of = ENG
+						is_subject_of =KMTG
 						has_autonomy_state = autonomy_puppet
 				}
 					AND = {
@@ -114690,7 +114694,7 @@ defined_text = {
 		trigger = {
 				OR = {
 					AND = {
-						original_tag = BOS
+						original_tag = KMT
 						is_subject_of = YUG
 				}
 					AND = {
@@ -114904,7 +114908,7 @@ defined_text = {
 						has_autonomy_state = autonomy_aat_defense_council_member
 				}
 					AND = {
-						original_tag = NOR
+						original_tag = KMT
 						has_autonomy_state = autonomy_aat_defense_council_member
 				}
 					AND = {
@@ -114916,11 +114920,11 @@ defined_text = {
 						has_autonomy_state = autonomy_dominion
 				}
 					AND = {
-						original_tag = SOV
+						original_tag = KMT
 						has_autonomy_state = autonomy_integrated_puppet
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						has_autonomy_state = autonomy_puppet
 				}
 					AND = {
@@ -114928,7 +114932,7 @@ defined_text = {
 						has_autonomy_state = autonomy_reichskommissariat
 				}
 					AND = {
-						original_tag = SOV
+						original_tag = KMT
 						has_autonomy_state = autonomy_reichskommissariat
 				}
 					AND = {
@@ -114936,7 +114940,7 @@ defined_text = {
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
 					AND = {
-						original_tag = SOV
+						original_tag = KMT
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
 					AND = {
@@ -114959,7 +114963,7 @@ defined_text = {
 		trigger = {
 				OR = {
 					AND = {
-						original_tag = ICE
+						original_tag = KMT
 						has_autonomy_state = autonomy_aat_defense_council_member
 				}
 					AND = {
@@ -114971,7 +114975,7 @@ defined_text = {
 						has_autonomy_state = autonomy_colony
 				}
 					AND = {
-						original_tag = AST
+						original_tag = KMT
 						has_autonomy_state = autonomy_dominion
 				}
 					AND = {
@@ -115752,7 +115756,7 @@ defined_text = {
 						has_government = fascism
 				}
 					AND = {
-						original_tag = BRN
+						original_tag = KMT
 						has_government = fascism
 				}
 					AND = {
@@ -116048,7 +116052,7 @@ defined_text = {
 						has_government = neutrality
 				}
 					AND = {
-						original_tag = CHA
+						original_tag = KMT
 						has_government = neutrality
 				}
 					AND = {
@@ -116443,7 +116447,7 @@ defined_text = {
 						has_government = communism
 				}
 					AND = {
-						original_tag = CHA
+						original_tag = KMT
 						has_government = communism
 				}
 					AND = {
@@ -117403,7 +117407,7 @@ defined_text = {
 						has_government = democratic
 				}
 					AND = {
-						original_tag = CHA
+						original_tag = KMT
 						has_government = democratic
 				}
 					AND = {
@@ -120837,7 +120841,7 @@ defined_text = {
 					original_tag = BHR
 					original_tag = BHU
 					original_tag = BLC
-					original_tag = BLZ
+					original_tag = KMT
 					original_tag = BRD
 					original_tag = BRN
 					original_tag = CHA
@@ -125413,37 +125417,37 @@ defined_text = {
 					AND = {
 						original_tag = BEL
 						is_subject_of = GER
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_satellite
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_integrated_puppet
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_puppet
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_reichskommissariat
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
 					AND = {
 						original_tag = CHI
 						is_subject_of = JAP
-						has_government = fascism
+						has_government KMTascism
 						has_autonomy_state = autonomy_wtt_imperial_associate
 				}
 					AND = {
@@ -126342,7 +126346,7 @@ defined_text = {
 				}
 					AND = {
 						original_tag = ZIM
-						is_subject_of = GER
+						is_subject_of =KMTR
 						has_autonomy_state = autonomy_reichskommissariat
 				}
 					AND = {
@@ -126865,7 +126869,8 @@ defined_text = {
 		}
 		localization_key = RU_End_Present_Et
 	}
-	text = {
+
+	text = {
 		trigger = {
 				OR = {
 					AND = {
@@ -126887,7 +126892,7 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = BOS
 						is_subject_of = YUG
 				}
@@ -127107,7 +127112,7 @@ defined_text = {
 						original_tag = ICE
 						has_autonomy_state = autonomy_aat_defense_council_member
 				}
-					AND = {
+					AND = {KMT
 						original_tag = NOR
 						has_autonomy_state = autonomy_aat_defense_council_member
 				}
@@ -127119,7 +127124,7 @@ defined_text = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_colony
 				}
-					AND = {
+					AND = {KMT
 						original_tag = AST
 						has_autonomy_state = autonomy_dominion
 				}
@@ -127127,7 +127132,7 @@ defined_text = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_dominion
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_dominion
 				}
@@ -127135,7 +127140,7 @@ defined_text = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_integrated_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_integrated_puppet
 				}
@@ -127147,7 +127152,7 @@ defined_text = {
 						original_tag = GER
 						has_autonomy_state = autonomy_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_puppet
 				}
@@ -127155,7 +127160,7 @@ defined_text = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_reichskommissariat
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_reichskommissariat
 				}
@@ -127163,7 +127168,7 @@ defined_text = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
@@ -127672,7 +127677,7 @@ defined_text = {
 						original_tag = CBV
 						has_government = communism
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHA
 						has_government = communism
 				}
@@ -129000,7 +129005,7 @@ defined_text = {
 						original_tag = CBV
 						has_government = democratic
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHA
 						has_government = democratic
 				}
@@ -130308,7 +130313,7 @@ defined_text = {
 						original_tag = CBV
 						has_government = fascism
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHA
 						has_government = fascism
 				}
@@ -131656,7 +131661,7 @@ defined_text = {
 						original_tag = CBV
 						has_government = neutrality
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHA
 						has_government = neutrality
 				}
@@ -133025,7 +133030,7 @@ defined_text = {
 					original_tag = BUL
 					original_tag = CAM
 					original_tag = CAN
-					original_tag = CAR
+					original_tag = KMT
 					original_tag = CAT
 					original_tag = CAY
 					original_tag = CBV
@@ -137561,37 +137566,37 @@ defined_text = {
 				}
 					AND = {
 						original_tag = BEL
-						is_subject_of = GER
+						is_subject_of =KMTR
 						has_government = fascism
 						has_autonomy_state = autonomy_satellite
 				}
 					AND = {
 						original_tag = CHI
-						is_subject_of = JAP
+						is_subject_of =KMTP
 						has_government = fascism
 						has_autonomy_state = autonomy_integrated_puppet
 				}
 					AND = {
 						original_tag = CHI
-						is_subject_of = JAP
+						is_subject_of =KMTP
 						has_government = fascism
 						has_autonomy_state = autonomy_puppet
 				}
 					AND = {
 						original_tag = CHI
-						is_subject_of = JAP
+						is_subject_of =KMTP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichskommissariat
 				}
 					AND = {
 						original_tag = CHI
-						is_subject_of = JAP
+						is_subject_of =KMTP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
 					AND = {
 						original_tag = CHI
-						is_subject_of = JAP
+						is_subject_of =KMTP
 						has_government = fascism
 						has_autonomy_state = autonomy_wtt_imperial_associate
 				}
@@ -138490,7 +138495,7 @@ defined_text = {
 						has_autonomy_state = autonomy_reichskommissariat
 				}
 					AND = {
-						original_tag = ZIM
+						original_tag = KMT
 						is_subject_of = GER
 						has_autonomy_state = autonomy_reichskommissariat
 				}
@@ -139036,7 +139041,7 @@ defined_text = {
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = BOS
 						is_subject_of = YUG
 				}
@@ -139256,7 +139261,7 @@ defined_text = {
 						original_tag = ICE
 						has_autonomy_state = autonomy_aat_defense_council_member
 				}
-					AND = {
+					AND = {KMT
 						original_tag = NOR
 						has_autonomy_state = autonomy_aat_defense_council_member
 				}
@@ -139268,7 +139273,7 @@ defined_text = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_colony
 				}
-					AND = {
+					AND = {KMT
 						original_tag = AST
 						has_autonomy_state = autonomy_dominion
 				}
@@ -139276,7 +139281,7 @@ defined_text = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_dominion
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_dominion
 				}
@@ -139284,7 +139289,7 @@ defined_text = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_integrated_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_integrated_puppet
 				}
@@ -139296,7 +139301,7 @@ defined_text = {
 						original_tag = GER
 						has_autonomy_state = autonomy_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_puppet
 				}
@@ -139304,7 +139309,7 @@ defined_text = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_reichskommissariat
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_reichskommissariat
 				}
@@ -139312,7 +139317,7 @@ defined_text = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
-					AND = {
+					AND = {KMT
 						original_tag = SOV
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
@@ -139821,7 +139826,7 @@ defined_text = {
 						original_tag = CBV
 						has_government = communism
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHA
 						has_government = communism
 				}
@@ -141149,7 +141154,7 @@ defined_text = {
 						original_tag = CBV
 						has_government = democratic
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHA
 						has_government = democratic
 				}
@@ -142457,7 +142462,7 @@ defined_text = {
 						original_tag = CBV
 						has_government = fascism
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHA
 						has_government = fascism
 				}
@@ -143805,7 +143810,7 @@ defined_text = {
 						original_tag = CBV
 						has_government = neutrality
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHA
 						has_government = neutrality
 				}
@@ -145174,7 +145179,7 @@ defined_text = {
 					original_tag = BUL
 					original_tag = CAM
 					original_tag = CAN
-					original_tag = CAR
+					original_tag = KMT
 					original_tag = CAT
 					original_tag = CAY
 					original_tag = CBV
@@ -145878,7 +145883,8 @@ defined_text = {
 		}
 		localization_key = RU_Suffix_Dzhet
 	}
-
+
+
 ##### Cosmetic Tag (1) + Ideology + Subject	330 #####
 	text = {
 		trigger = {
@@ -149728,37 +149734,37 @@ defined_text = {
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
 					AND = {
-						original_tag = BEL
+						original_tag = KMT
 						is_subject_of = GER
 						has_government = fascism
 						has_autonomy_state = autonomy_satellite
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_integrated_puppet
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_puppet
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichskommissariat
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_wtt_imperial_associate
@@ -150665,7 +150671,7 @@ defined_text = {
 						is_subject_of = GER
 						has_autonomy_state = autonomy_reichskommissariat
 				}
-					AND = {
+					AND = {KMT
 						original_tag = ZIM
 						is_subject_of = GER
 						has_autonomy_state = autonomy_reichskommissariat
@@ -151184,7 +151190,7 @@ defined_text = {
 ##### Country Tag (1) + Country Tag (2) + Subject	130 #####
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					AND = {
 						original_tag = BOS
 						is_subject_of = YUG
@@ -151404,7 +151410,7 @@ defined_text = {
 					AND = {
 						original_tag = ICE
 						has_autonomy_state = autonomy_aat_defense_council_member
-				}
+				}KMT
 					AND = {
 						original_tag = NOR
 						has_autonomy_state = autonomy_aat_defense_council_member
@@ -151416,7 +151422,7 @@ defined_text = {
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_colony
-				}
+				}KMT
 					AND = {
 						original_tag = AST
 						has_autonomy_state = autonomy_dominion
@@ -151424,7 +151430,7 @@ defined_text = {
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_dominion
-				}
+				}KMT
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_dominion
@@ -151432,7 +151438,7 @@ defined_text = {
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_integrated_puppet
-				}
+				}KMT
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_integrated_puppet
@@ -151444,7 +151450,7 @@ defined_text = {
 					AND = {
 						original_tag = GER
 						has_autonomy_state = autonomy_puppet
-				}
+				}KMT
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_puppet
@@ -151452,7 +151458,7 @@ defined_text = {
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_reichskommissariat
-				}
+				}KMT
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_reichskommissariat
@@ -151460,7 +151466,7 @@ defined_text = {
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_reichsprotectorate
-				}
+				}KMT
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_reichsprotectorate
@@ -152172,7 +152178,7 @@ defined_text = {
 					AND = {
 						original_tag = CBV
 						has_government = communism
-				}
+				}KMT
 					AND = {
 						original_tag = CHA
 						has_government = communism
@@ -153500,7 +153506,7 @@ defined_text = {
 					AND = {
 						original_tag = CBV
 						has_government = democratic
-				}
+				}KMT
 					AND = {
 						original_tag = CHA
 						has_government = democratic
@@ -154808,7 +154814,7 @@ defined_text = {
 					AND = {
 						original_tag = CBV
 						has_government = fascism
-				}
+				}KMT
 					AND = {
 						original_tag = CHA
 						has_government = fascism
@@ -156156,7 +156162,7 @@ defined_text = {
 					AND = {
 						original_tag = CBV
 						has_government = neutrality
-				}
+				}KMT
 					AND = {
 						original_tag = CHA
 						has_government = neutrality
@@ -157347,7 +157353,7 @@ defined_text = {
 					original_tag = BRN
 					original_tag = BUL
 					original_tag = CAM
-					original_tag = CAN
+					original_tag = KMT
 					original_tag = CAR
 					original_tag = CAT
 					original_tag = CAY
@@ -161881,19 +161887,19 @@ defined_text = {
 						has_autonomy_state = autonomy_puppet
 				}
 					AND = {
-						original_tag = BEL
+						original_tag = KMT
 						is_subject_of = GER
 						has_government = fascism
 						has_autonomy_state = autonomy_colony
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_integrated_puppet
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichskommissariat
@@ -162238,19 +162244,19 @@ defined_text = {
 						has_autonomy_state = autonomy_dominion
 				}
 					AND = {
-						original_tag = BEL
+						original_tag = KMT
 						is_subject_of = GER
 						has_government = fascism
 						has_autonomy_state = autonomy_satellite
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_puppet
 				}
 					AND = {
-						original_tag = CHI
+						original_tag = KMT
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichsprotectorate
@@ -162909,7 +162915,7 @@ defined_text = {
 						is_subject_of = ENG
 						has_autonomy_state = autonomy_integrated_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = BOT
 						is_subject_of = ENG
 						has_autonomy_state = autonomy_puppet
@@ -163427,7 +163433,7 @@ defined_text = {
 ##### Country Tag (1) + Country Tag (2) + Subject	130 #####
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					AND = {
 						original_tag = BOS
 						is_subject_of = YUG
@@ -163652,7 +163658,7 @@ defined_text = {
 ##### Country Tag (1) + Autonomy	50 #####
 	text = {
 		trigger = {
-				OR = {
+				OR = {KMT
 					AND = {
 						original_tag = ICE
 						has_autonomy_state = autonomy_aat_defense_council_member
@@ -163664,7 +163670,7 @@ defined_text = {
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_colony
-				}
+				}KMT
 					AND = {
 						original_tag = AST
 						has_autonomy_state = autonomy_dominion
@@ -163719,7 +163725,7 @@ defined_text = {
 					AND = {
 						original_tag = FIN
 						has_autonomy_state = autonomy_aat_defense_council_member
-				}
+				}KMT
 					AND = {
 						original_tag = NOR
 						has_autonomy_state = autonomy_aat_defense_council_member
@@ -163731,11 +163737,11 @@ defined_text = {
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_dominion
-				}
+				}KMT
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_integrated_puppet
-				}
+				}KMT
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_puppet
@@ -163743,7 +163749,7 @@ defined_text = {
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_reichskommissariat
-				}
+				}KMT
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_reichskommissariat
@@ -163751,7 +163757,7 @@ defined_text = {
 					AND = {
 						original_tag = CHI
 						has_autonomy_state = autonomy_reichsprotectorate
-				}
+				}KMT
 					AND = {
 						original_tag = SOV
 						has_autonomy_state = autonomy_reichsprotectorate
@@ -164216,7 +164222,7 @@ defined_text = {
 					AND = {
 						original_tag = CBV
 						has_government = communism
-				}
+				}KMT
 					AND = {
 						original_tag = CHA
 						has_government = communism
@@ -165176,7 +165182,7 @@ defined_text = {
 					AND = {
 						original_tag = CBV
 						has_government = democratic
-				}
+				}KMT
 					AND = {
 						original_tag = CHA
 						has_government = democratic
@@ -167257,7 +167263,8 @@ defined_text = {
 		}
 		localization_key = RU_Adj_Ending_Aya
 	}
-	text = {
+
+	text = {
 		trigger = {
 				OR = {
 					AND = {
@@ -167893,7 +167900,7 @@ defined_text = {
 				}
 					AND = {
 						original_tag = BOS
-						has_government = fascism
+						has_government KMTascism
 				}
 					AND = {
 						original_tag = BRN
@@ -168189,7 +168196,7 @@ defined_text = {
 				}
 					AND = {
 						original_tag = BUK
-						has_government = neutrality
+						has_government KMTeutrality
 				}
 					AND = {
 						original_tag = CHA
@@ -169773,7 +169780,7 @@ defined_text = {
 					original_tag = AZR
 					original_tag = BAN
 					original_tag = BAR
-					original_tag = BHR
+					original_tag = KMT
 					original_tag = BHU
 					original_tag = BLC
 					original_tag = BLZ
@@ -175935,37 +175942,37 @@ defined_text = {
 			is_subject_of = GER
 			has_government = fascism
 			has_autonomy_state = autonomy_puppet
-		}
+		}KMT
 		localization_key = KEN_GER_fascism_autonomy_puppet_ADJ_RU_lower
 	}
 	text = {
 		trigger = {
 				OR = {
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_integrated_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_puppet
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichskommissariat
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
 						has_autonomy_state = autonomy_reichsprotectorate
 				}
-					AND = {
+					AND = {KMT
 						original_tag = CHI
 						is_subject_of = JAP
 						has_government = fascism
@@ -176873,7 +176880,7 @@ defined_text = {
 						original_tag = KEN
 						is_subject_of = GER
 						has_autonomy_state = autonomy_satellite
-				}
+				}KMT
 			}
 		}
 		localization_key = KEN_GER_autonomy_satellite_ADJ_RU_lower
@@ -178036,7 +178043,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			original_tag = CRO
+			original_tag = KMT
 			is_subject_of = YUG
 		}
 		localization_key = CRO_YUG_subject_ADJ_RU_lower
@@ -178338,31 +178345,31 @@ defined_text = {
 		trigger = {
 			original_tag = ICE
 			has_autonomy_state = autonomy_aat_defense_council_member
-		}
+		}KMT
 		localization_key = ICE_autonomy_aat_defense_council_member_ADJ_RU_lower
 	}
 	text = {
-		trigger = {
+		trigger = {KMT
 				OR = {
 					AND = {
 						original_tag = CHI
-						has_autonomy_state = autonomy_colony
+						has_autonomy_stKMT = autonomy_colony
 				}
 					AND = {
 						original_tag = CHI
-						has_autonomy_state = autonomy_dominion
+						has_autonomy_stKMT = autonomy_dominion
 				}
 					AND = {
 						original_tag = CHI
-						has_autonomy_state = autonomy_integrated_puppet
+						has_autonomy_stKMT = autonomy_integrated_puppet
 				}
 					AND = {
 						original_tag = CHI
-						has_autonomy_state = autonomy_puppet
+						has_autonomy_stKMT = autonomy_puppet
 				}
 					AND = {
 						original_tag = CHI
-						has_autonomy_state = autonomy_reichskommissariat
+						has_autonomy_stKMT = autonomy_reichskommissariat
 				}
 					AND = {
 						original_tag = CHI
@@ -182414,7 +182421,7 @@ defined_text = {
 						has_government = neutrality
 				}
 			}
-		}
+		}KMT
 		localization_key = KYR_neutrality_ADJ_RU_lower
 	}
 	text = {
@@ -182426,7 +182433,7 @@ defined_text = {
 				}
 					AND = {
 						original_tag = PRC
-						has_government = communism
+						has_government KMTommunism
 				}
 					AND = {
 						original_tag = RNG
@@ -182438,7 +182445,7 @@ defined_text = {
 				}
 					AND = {
 						original_tag = PRC
-						has_government = democratic
+						has_government KMTemocratic
 				}
 					AND = {
 						original_tag = RNG
@@ -182450,7 +182457,7 @@ defined_text = {
 				}
 					AND = {
 						original_tag = PRC
-						has_government = fascism
+						has_government KMTascism
 				}
 					AND = {
 						original_tag = RNG
@@ -187840,7 +187847,7 @@ defined_text = {
 	}
 	text = {
 		trigger = {
-			original_tag = KYR
+			original_tag = KYKMT
 		}
 		localization_key = KYR_ADJ_RU_lower
 	}
@@ -188898,4 +188905,5 @@ defined_text = {
 		}
 		localization_key = JAP_ADJ_RU_lower
 	}
-}
+}
+

@@ -1012,8 +1012,8 @@ CHI_bog_defensive_modifier = { #Defensive bonuses for NatCHI in core states
 		ROOT = {
 			controller = {
 				OR = {
-					original_tag = CHI
-					is_ally_with = CHI
+					original_tag = KMT
+					is_ally_with = KMT
 				}
 			}
 		}
@@ -1029,7 +1029,7 @@ CHI_declared_war_zone_idea = { #Defensive bonuses for NatCHI in core states
 	enable = { 
 	 	ROOT = {
 	 		controller = {
-	 			has_war_with = CHI
+	 			has_war_with = KMT
 	 		}
 	 	}
 	} 
@@ -1071,7 +1071,7 @@ CHI_electrification_and_mass_education_modifier = {
 			OWNER = {
 				OR = {
 					is_literally_china = no
-					has_war_with = CHI
+					has_war_with = KMT
 				}
 			} # ROOT refers to the state on which the modifier is added
 		}
@@ -1318,7 +1318,7 @@ PRC_guerilla_cells_active_1 = {
 			controller = {
 				NOT = { 
 					has_war_with = PRC 
-					has_war_with = CHI 
+					has_war_with = KMT 
 				}
 			}
 			AND = {
@@ -1346,7 +1346,7 @@ PRC_guerilla_cells_active_2 = {
 			controller = {
 				NOT = { 
 					has_war_with = PRC 
-					has_war_with = CHI 
+					has_war_with = KMT 
 				}
 			}
 			AND = {

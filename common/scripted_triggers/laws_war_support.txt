@@ -115,7 +115,7 @@ has_excessive_army_size = { #not currently used due to AI concerns
 				TAG = RAJ
 			}
 			NOT = {
-				TAG = CHI
+				TAG = KMT
 			}
 			NOT = {
 				has_government = communism
@@ -129,7 +129,7 @@ has_excessive_army_size = { #not currently used due to AI concerns
 				TAG = RAJ
 			}
 			NOT = {
-				TAG = CHI
+				TAG = KMT
 			}
 			NOT = {
 				has_government = communism
@@ -143,7 +143,7 @@ has_excessive_army_size = { #not currently used due to AI concerns
 				TAG = RAJ
 			}
 			NOT = {
-				TAG = CHI
+				TAG = KMT
 			}
 			NOT = {
 				has_government = communism
@@ -157,7 +157,7 @@ has_excessive_army_size = { #not currently used due to AI concerns
 				TAG = RAJ
 			}
 			NOT = {
-				TAG = CHI
+				TAG = KMT
 			}
 			NOT = {
 				has_government = communism

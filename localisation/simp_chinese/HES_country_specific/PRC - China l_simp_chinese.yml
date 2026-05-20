@@ -1,0 +1,23 @@
+﻿l_simp_chinese:
+# 国家名称
+PRC: "中华人民共和国"
+PRC_ADJ: "中国"
+PRC_DEF: "中华人民共和国"
+# 党派
+PRC_marxism_leninism_party: "中国共产党"
+PRC_marxism_leninism_party_long: "中国共产党"
+PRC_state_capitalism_party: "中国共产党"
+PRC_state_capitalism_party_long: "中国共产党"
+PRC_social_democracy_party: "中国民主同盟"
+PRC_social_democracy_party_long: "中国民主同盟"
+PRC_nationalism_party: "中国共产党"
+PRC_nationalism_party_long: "中国共产党"
+PRC_liberalism_party: "中国国民党革命委员会"
+PRC_liberalism_party_long: "中国国民党革命委员会"
+PRC_reactionism_party: "国民党法西斯匪帮"
+PRC_reactionism_party_long: "国民党法西斯匪帮"
+# 国家领导人
+PRC_mao_zedong: "毛泽东"
+PRC_mao_zedong_leader_desc: ""
+#国策
+#事件

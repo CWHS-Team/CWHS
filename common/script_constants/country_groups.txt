@@ -41,7 +41,7 @@ country_groups = {
     }
 
     literally_china = {
-        CHI
+        KMT
 		PRC
 		GXC
 		YUN

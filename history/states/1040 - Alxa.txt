@@ -9,8 +9,8 @@ state={
 	state_category = wasteland
 	history={
 
-		owner = CHI
-		add_core_of = CHI
+		owner = KMT
+		add_core_of = KMT
 		add_core_of = PRC
 
 		victory_points = {
@@ -27,7 +27,7 @@ state={
 						has_dlc = "Waking the Tiger" 
 					}
 				}
-				CHI = {
+				KMT = {
 					transfer_state = PREV
 				}
 			}

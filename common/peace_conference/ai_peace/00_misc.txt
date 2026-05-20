@@ -114,7 +114,7 @@ peace_ai_desires = {
                         original_tag = JAP
                     }
                     ROOT.FROM.FROM = {
-                        original_tag = CHI
+                        original_tag = KMT
                     }
                 }
             }

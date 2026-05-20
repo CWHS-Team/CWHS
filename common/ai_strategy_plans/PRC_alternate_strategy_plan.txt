@@ -125,13 +125,13 @@ PRC_alternate_plan_2 = {
 
 	ai_strategy = {
 		type = befriend
-		id = "CHI"			
+		id = "KMT"			
 		value = 200
 	}
 
 	ai_strategy = {
 		type = alliance
-		id = "CHI"			
+		id = "KMT"			
 		value = 200
 	}
 
@@ -195,13 +195,13 @@ PRC_alternate_plan_3 = {
 
 	ai_strategy = {
 		type = befriend
-		id = "CHI"			
+		id = "KMT"			
 		value = 200
 	}
 
 	ai_strategy = {
 		type = alliance
-		id = "CHI"			
+		id = "KMT"			
 		value = 200
 	}
 

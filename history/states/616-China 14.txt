@@ -8,8 +8,8 @@ state = {
 
 	history = {
 
-		owner = CHI
-		add_core_of = CHI
+		owner = KMT
+		add_core_of = KMT
 		add_core_of = PRC
 
 		buildings = {
@@ -40,7 +40,7 @@ state = {
 						has_dlc = "Waking the Tiger" 
 					}
 				}
-				CHI = {
+				KMT = {
 					transfer_state = PREV
 
 				}

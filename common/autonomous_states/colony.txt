@@ -72,7 +72,7 @@ autonomy_state = {
 		if = {
 			limit = {
 				has_dlc = "No Compromise, No Surrender"
-				OVERLORD = { tag = CHI }
+				OVERLORD = { tag = KMT }
 			}
 			is_chinese_warlord = no
 		}

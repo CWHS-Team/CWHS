@@ -55,8 +55,8 @@ PRC_default_plan = {
 }
 
 PRC_ally_CHI = {
-	name = "Communist China alliance with CHI"
-	desc = "Forces alliance with CHI"
+	name = "Communist China alliance with KMT"
+	desc = "Forces alliance with KMT"
 
 	allowed = {
 		OR = {
@@ -75,16 +75,16 @@ PRC_ally_CHI = {
 				}
 			}
 		}
-		is_in_faction_with = CHI
+		is_in_faction_with = KMT
 	}
 	abort = {
 		NOT = {
-			is_in_faction_with = CHI
+			is_in_faction_with = KMT
 		}
 	}
 	ai_strategy = {
 		type = alliance
-		id = "CHI"
+		id = "KMT"
 		value = 200
 	}
 

@@ -60,7 +60,7 @@ peace_ai_desires = {
         peace_action_type = puppet
         enable = {
             FROM.FROM = {
-                original_tag = CHI
+                original_tag = KMT
             }
             FROM.FROM.FROM = {
                 NOT = {
@@ -88,7 +88,7 @@ peace_ai_desires = {
         peace_action_type = take_states
         enable = {
             FROM.FROM = {
-                original_tag = CHI
+                original_tag = KMT
             }
             FROM.FROM.FROM = {
                 NOT = {

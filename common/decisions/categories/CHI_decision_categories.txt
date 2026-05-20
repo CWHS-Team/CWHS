@@ -32,7 +32,7 @@ CHI_integrate_the_warlords = {
 
 	allowed = {
 		OR = {
-			tag = CHI
+			tag = KMT
 			tag = PRC
 			tag = GXC
 			tag = YUN
@@ -100,7 +100,7 @@ CHI_xian_incident = {
 		is_independent_china_or_warlord = yes
 		NOT = {
 			OR = {
-				tag = CHI
+				tag = KMT
 				tag = PRC
 			}
 		}
@@ -206,7 +206,7 @@ CHI_political_power_struggle = {
 	}
 	
 	custom_icon = {
-		tag = CHI
+		tag = KMT
 		value = china_struggle_icon_value
 		desc = china_struggle_full_support_breakdown
 
@@ -300,7 +300,7 @@ CHI_republican_interests_cat = {
 	#picture = GFX_decision_cat_picture_JAP_greater_east_asia_co_prosperity_sphere
 
 	allowed = {
-		original_tag = CHI
+		original_tag = KMT
 	}
 
 	visible_when_empty = no	
@@ -318,7 +318,7 @@ CHI_the_political_tutelage_cat = {
 
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		tag = CHI
+		tag = KMT
 	}
 	visible = {
 		has_completed_focus = CHI_accelerate_the_tutelage
@@ -330,7 +330,7 @@ CHI_united_front = {
 	icon = generic_independence
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		TAG = CHI
+		TAG = KMT
 	}
 	available = {
 		has_faction_template = faction_template_chinese_united_front
@@ -345,7 +345,7 @@ CHI_war_of_resistance_cat = {
 	priority = 100
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		tag = CHI
+		tag = KMT
 	}
 	available = {
 		
@@ -360,7 +360,7 @@ CHI_internal_politics_cat = {
 	icon = GFX_decision_category_generic_political_actions
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		tag = CHI
+		tag = KMT
 	}
 	visible = {
 		OR = {
@@ -396,7 +396,7 @@ CHI_lend_lease_missions_cat = {
 	priority = 101
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		tag = CHI
+		tag = KMT
 	}
 	available = {
 		
@@ -416,7 +416,7 @@ CHI_army_planing_decisions = {
 	icon = generic_independence
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		tag = CHI
+		tag = KMT
 	}
 	available = {
 		
@@ -433,7 +433,7 @@ CHI_integrate_the_warlords_sea_cat = {
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
 		OR = {
-			original_tag = CHI
+			original_tag = KMT
 			original_tag = PRC
 		}
 	}
@@ -442,7 +442,7 @@ CHI_integrate_the_warlords_sea_cat = {
 	visible = {
 		if = {
 			limit = {
-				original_tag = CHI
+				original_tag = KMT
 			}
 			OR = {
 				is_in_faction = yes
@@ -468,7 +468,7 @@ CHI_integrate_the_warlords_democratic_sea_cat = {
 
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		original_tag = CHI
+		original_tag = KMT
 	}
 
 	priority = 100
@@ -484,7 +484,7 @@ CHI_avoid_another_crisis_cat = {
 	picture = GFX_decision_cat_picture_generic_border_conflicts
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		original_tag = CHI
+		original_tag = KMT
 	}
 	available = {
 		NOT = { has_war_with = JAP } # To cancel any running decisions
@@ -505,7 +505,7 @@ CHI_avoid_another_crisis_cat = {
 CHI_move_mios_cat = {
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		original_tag = CHI
+		original_tag = KMT
 		#TODO_CM: Maybe add MAN later
 	}
 	priority = 30
@@ -521,7 +521,7 @@ CHI_the_lingguang_incident_cat = {
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
 		OR = {
-			original_tag = CHI
+			original_tag = KMT
 			original_tag = GXC
 			original_tag = GDC
 		}
@@ -555,7 +555,7 @@ CHI_build_up_our_faction_cat = {
 	picture = GFX_decision_cat_picture_generic_border_conflicts
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		original_tag = CHI
+		original_tag = KMT
 	}
 	available = {
 	}
@@ -602,7 +602,7 @@ CHI_tsr_power_struggle_cat = {
 CHI_tsr_renegotiating_with_warlords_cat = {
 	allowed = {
 		has_dlc = "No Compromise, No Surrender"
-		original_tag = CHI
+		original_tag = KMT
 	}
 
 	available = {
@@ -624,7 +624,7 @@ CHI_war_in_liangguang = {
 	icon = GFX_decision_category_NOR_fascist_deploy_prep
 	allowed = {
 		OR = {
-			original_tag = CHI
+			original_tag = KMT
 			original_tag = GDC
 		}
 	}
@@ -661,7 +661,7 @@ RNG_state_shintoism_decisions = {
 CHI_x_y_force_cat = {
 	icon = GFX_decision_category_NOR_fascist_deploy_prep
 	allowed = {
-		original_tag = CHI
+		original_tag = KMT
 	}
 
 	visible = {

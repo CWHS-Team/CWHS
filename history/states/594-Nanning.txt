@@ -11,8 +11,8 @@ state = {
 
 	history = {
 
-		owner = CHI
-		add_core_of = CHI
+		owner = KMT
+		add_core_of = KMT
 		add_core_of = PRC
 
 		buildings = {
@@ -34,7 +34,7 @@ state = {
 					NOT = { has_dlc = "Waking the Tiger" }
 				}
 				remove_core_of = GXC
-				CHI = { transfer_state = PREV }
+				KMT = { transfer_state = PREV }
 			}
 		}
 	}

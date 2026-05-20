@@ -92,7 +92,7 @@ SOV_is_free_chinese_tag = {
 	custom_trigger_tooltip = {
 		tooltip = SOV_is_free_chinese_tag_tt
 		OR = {
-			original_tag = CHI
+			original_tag = KMT
 			original_tag = PRC
 			original_tag = SIK
 			original_tag = XSM
@@ -116,7 +116,7 @@ SOV_is_free_chinese_tag = {
 
 SOV_is_chinese_tag = {
 	OR = {
-		original_tag = CHI
+		original_tag = KMT
 		original_tag = PRC
 		original_tag = SIK
 		original_tag = XSM

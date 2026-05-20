@@ -151,7 +151,7 @@ large_unit_tactics = {
             factor = 95
             OR = {
                 original_tag = SOV
-                original_tag = CHI
+                original_tag = KMT
                 original_tag = JAP
             }
         }

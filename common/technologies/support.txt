@@ -85,7 +85,7 @@ technologies = {
 
 			modifier = {
 				factor = 6
-				original_tag = CHI
+				original_tag = KMT
 				NOT = {
 					has_dlc = "No Compromise, No Surrender"
 				}
@@ -152,7 +152,7 @@ technologies = {
 
 			modifier = {
 				factor = 6
-				original_tag = CHI
+				original_tag = KMT
 				NOT = {
 					has_dlc = "No Compromise, No Surrender"
 				}

@@ -237,7 +237,7 @@ defined_text = { #Country
 	name = GetStateSupport
 	text = {
 		trigger = {
-			original_tag = CHI
+			original_tag = KMT
 			any_state = {
 				has_state_flag = majority_political_platform_@PREV
 			}
@@ -336,7 +336,7 @@ defined_text = { #Event target scope_<TAG>
 				is_chinese_warlord = yes
 				has_country_flag = warlord_supports_@PREV
 			}
-			original_tag = CHI
+			original_tag = KMT
 		}
 		localization_key = CHI_warlord_support
 	}
@@ -480,7 +480,7 @@ defined_text = { #Country
 	name = GetOtherSupport
 	text = {
 		trigger = {
-			original_tag = CHI
+			original_tag = KMT
 			NOT = { check_variable = { other_political_support = 0 } }
 		}
 		localization_key = CHI_other_support
@@ -1430,7 +1430,7 @@ defined_text = { #Country
 	text = {
 		trigger = {
 			any_country = {
-				original_tag = CHI
+				original_tag = KMT
 				PREV = { has_state_flag = majority_political_platform_@PREV }
 			}
 		}

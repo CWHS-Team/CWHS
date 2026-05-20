@@ -1103,7 +1103,7 @@ types = {
 			}
 			modifier = {
 				factor = 0
-				original_tag = CHI
+				original_tag = KMT
 				is_historical_focus_on = yes
 			}
 		}

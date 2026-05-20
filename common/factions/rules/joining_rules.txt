@@ -380,7 +380,7 @@ joining_rule_china_only = {
 	visible = {
 		capital_scope = {
 			OR = {
-				is_core_of = CHI
+				is_core_of = KMT
 				is_core_of = PRC
 			}
 		}
@@ -401,7 +401,7 @@ joining_rule_china_only = {
 			tooltip = has_chinese_capital_state_tt
 			capital_scope = {
 				OR = {
-					is_core_of = CHI
+					is_core_of = KMT
 					is_core_of = PRC
 				}
 			}

@@ -1,0 +1,23 @@
+﻿l_simp_chinese:
+# 国家名称
+SOV: "苏维埃社会主义共和国联盟"
+SOV_ADJ: "苏联"
+SOV_DEF: "苏维埃社会主义共和国联盟"
+# 党派
+SOV_marxism_leninism_party: "联共（布）"
+SOV_marxism_leninism_party_long: "全联盟共产党（布尔什维克）\n§L1§!\n"
+SOV_state_capitalism_party: "苏共官僚"
+SOV_state_capitalism_party_long: "苏共官僚"
+SOV_social_democracy_party: "孟什维克"
+SOV_social_democracy_party_long: "俄国社会民主工党（联合）"
+SOV_nationalism_party: "列宁格勒集团"
+SOV_nationalism_party_long: "列宁格勒集团"
+SOV_liberalism_party: "白俄流亡者"
+SOV_liberalism_party_long: "白俄流亡者"
+SOV_reactionism_party: "白俄流亡者"
+SOV_reactionism_party_long: "白俄流亡者"
+# 国家领导人
+SOV_stalin: "约瑟夫·斯大林"
+SOV_stalin_leader_desc: "§Y苏联共产党中央委员会总书记§!\n\n斯大林和列宁在一起领导十月社会主义革命，缔造了世界上第一个社会主义国家。在列宁逝世之后，斯大林继承马克思、恩格斯、列宁的事业，对敌人和叛徒进行了无情的斗争，领导了苏联人民胜利地建设了社会主义社会，并在胜利地进行大规模的共产主义建设。在第二次世界大战时期，斯大林指挥苏联军队战胜了德、意、日法西斯强盗，从而拯救了人类免于法西斯的奴役。全世界和平爱好者的力量，在斯大林的光荣旗帜下团结了起来，在战后为争取持久和平和人民民主而进行着英勇的斗争。"
+# 国策
+# 事件 

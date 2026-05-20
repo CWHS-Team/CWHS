@@ -1,3 +1,6 @@
 capital = 282 # Tokyo/Kanto
 
-# Starting Stats
+set_cosmetic_tag = JAP_occupation
+
+#国家领导人 Country Leaders#
+recruit_character = JAP_Douglas_Macarthur
