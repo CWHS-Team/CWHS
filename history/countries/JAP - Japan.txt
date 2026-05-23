@@ -4,3 +4,19 @@ set_cosmetic_tag = JAP_occupation
 
 #国家领导人 Country Leaders#
 recruit_character = JAP_Douglas_Macarthur
+
+#政治
+set_politics = {
+	ruling_party = liberalism
+	election_frequency = -1
+	elections_allowed = no
+}
+
+set_popularities = {
+	marxism_leninism = 4
+	state_capitalism = 0
+	nationalism = 11
+	social_democracy = 26
+	liberalism = 59
+	reactionism = 0	
+}	

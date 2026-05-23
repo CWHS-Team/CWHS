@@ -1,7 +1,10 @@
 ﻿l_simp_chinese:
-JAP: "日本"
-JAP_ADJ: "日本"
-JAP_DEF: "日本"   
+JAP: "日本国"
+JAP_ADJ: "日本国"
+JAP_DEF: "日本国"
+JAP_occupation: "同盟国军事占领日本"
+JAP_occupation_ADJ: "同盟国军事占领日本"
+JAP_occupation_DEF: "同盟国军事占领日本"
 # 党派
 JAP_marxism_leninism_party: "日本共产党"
 JAP_marxism_leninism_party_long: "日本共产党"
