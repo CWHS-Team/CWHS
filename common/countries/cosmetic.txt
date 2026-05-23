@@ -2,3 +2,13 @@ JAP_occupation = {
 	color = rgb { 141  2  31 }
 	color_ui = rgb { 141  2  31 }
 }
+
+WGR_occupation = {
+	color = rgb { 138 155 116 }
+	color_ui = rgb { 138 155 116 }
+}
+
+DDR_occupation = {
+	color = rgb { 128 128 128 }
+	color_ui = rgb { 128 128 128 }
+}

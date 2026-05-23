@@ -2744,7 +2744,6 @@ technologies = {
 		enable_equipments = {
 			armored_car_at_equipment
 		}
-		special_project_specialization = { specialization_land }
 
 		research_cost = 1
 		start_year = 1942

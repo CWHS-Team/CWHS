@@ -1,25 +1,4 @@
 technologies = {
-	
-	@1918 = 0
-	@1936 = 2
-	@1938 = 4
-	@1939 = 6
-	@1940 = 8
-	@1941 = 10
-	@1942 = 12
-	@1943 = 14
-	@1944 = 16
-	@1945 = 18
-	@1946 = 20
-	@1948 = 20
-	@1950 = 22
-	@1955 = 26
-
-	@field_hospital_x = 10 #it is actually Y :D
-	@logistic_x = 13 #it is actually Y :D
-	@signal_x = 15 #it is actually Y :D
-	@health_y = 9
-
 
 	tech_support = {
 
@@ -2649,10 +2628,6 @@ technologies = {
 		path = {
 			leads_to_tech = aa_train
 			research_cost_coeff = 1
-		}
-		
-		allow_branch = {
-			has_dlc = "No Step Back"
 		}
 		
 		research_cost = 1.5
