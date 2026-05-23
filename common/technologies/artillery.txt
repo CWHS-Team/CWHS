@@ -670,7 +670,7 @@ technologies = {
 				factor = 0.5
 
 				OR = {
-					tag = KMT
+					tag = CHI
 					tag = PRC
 					tag = XSM
 					tag = SIK
@@ -1036,7 +1036,7 @@ technologies = {
 				factor = 0.2
 
 				OR = {
-					tag = KMT
+					tag = CHI
 					tag = PRC
 					tag = XSM
 					tag = SIK
