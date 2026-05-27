@@ -1,3 +1,2 @@
 capital = 765 # Doha
 
-#oob = ""

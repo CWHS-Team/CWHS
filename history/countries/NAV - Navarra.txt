@@ -1,3 +1,2 @@
 capital = 792
 
-#oob = ""

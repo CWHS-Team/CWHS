@@ -1,3 +1,2 @@
 capital = 294
 
-oob = "OMA_1936"

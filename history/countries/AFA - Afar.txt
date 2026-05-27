@@ -1,3 +1,2 @@
 capital = 908
 
-OOB = "AFA_1936"

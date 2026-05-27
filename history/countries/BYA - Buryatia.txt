@@ -1,3 +1,2 @@
 capital = 564 #Ulan Ude in Buryatia
 
-#oob = "BYA_1936"

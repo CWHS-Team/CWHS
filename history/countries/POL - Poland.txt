@@ -1,3 +1,2 @@
 capital = 10
 
-oob = "POL_1936"

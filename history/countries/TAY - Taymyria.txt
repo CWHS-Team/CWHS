@@ -1,3 +1,2 @@
 capital = 516 #Taymyr
 
-#oob = "TAY_1936"

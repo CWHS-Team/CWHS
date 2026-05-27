@@ -1,3 +1,2 @@
 capital = 493 #Cartagena
 
-oob = "CHL_1936"

@@ -1,3 +1,19 @@
 capital = 527
 
-oob = "KOR_1936"
+#国家领导人 Country Leaders#
+recruit_character = KOR_kim_il_sung
+#政治
+set_politics = {
+	ruling_party = marxism_leninism
+	election_frequency = -1
+	elections_allowed = no
+}
+
+set_popularities = {
+	marxism_leninism = 80
+	state_capitalism = 0
+	nationalism = 7
+	social_democracy = 7
+	liberalism = 6
+	reactionism = 0
+}

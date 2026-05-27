@@ -1,3 +1,2 @@
 capital = 955 # Rawson, Chubut
 
-oob = "WLA_1936"

@@ -1,3 +1,2 @@
 capital = 66
 
-#oob = ""

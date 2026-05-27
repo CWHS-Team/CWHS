@@ -1,3 +1,2 @@
 capital = 335 #Jakarta
 
-oob = "INS_1936"

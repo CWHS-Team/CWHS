@@ -1,3 +1,2 @@
 capital = 829 #Engels
 
-#oob = "VGE_1936"

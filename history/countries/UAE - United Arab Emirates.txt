@@ -1,3 +1,2 @@
 capital = 658 # Abu Dhabi
 
-#oob = ""

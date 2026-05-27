@@ -1,3 +1,2 @@
 capital = 569 #Abakan in Kemerovo
 
-#oob = "BYA_1936"

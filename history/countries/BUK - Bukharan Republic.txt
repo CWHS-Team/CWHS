@@ -1,3 +1,2 @@
 capital = 830 #Bukhara
 
-#oob = "BUK_1936"

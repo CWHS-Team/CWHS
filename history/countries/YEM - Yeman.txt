@@ -1,3 +1,2 @@
 capital = 293
 
-oob = "YEM_1936"

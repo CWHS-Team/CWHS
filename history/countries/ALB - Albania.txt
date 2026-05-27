@@ -1,3 +1,2 @@
 capital = 44
 
-OOB = "ALB_1936"

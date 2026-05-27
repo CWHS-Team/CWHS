@@ -1,3 +1,2 @@
 capital = 298
 
-oob = "LIB_1936"

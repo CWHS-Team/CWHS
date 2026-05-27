@@ -1,3 +1,2 @@
 capital = 480 #Monterrey, Coahuila
 
-oob = "MEX_1936"

@@ -1,3 +1,2 @@
 capital = 808
 
-oob = "LAT_1936"

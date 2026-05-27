@@ -1,0 +1,10 @@
+characters = {
+	#国家领导人 Country Leaders
+	DDR_vasily_sokolovsky = {
+		name = DDR_vasily_sokolovsky
+		country_leader = {
+			desc = DDR_vasily_sokolovsky_leader_desc
+			ideology = marxism_leninism_subtype
+		}	
+	}
+}

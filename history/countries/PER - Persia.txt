@@ -1,3 +1,2 @@
 capital = 266
 
-oob = "PER_1936"

@@ -1,8 +1,11 @@
 ﻿l_simp_chinese:
 # 国家名称
-PRC: "中华人民共和国"
-PRC_ADJ: "中国"
-PRC_DEF: "中华人民共和国"
+PRC: "解放区"
+PRC_ADJ: "解放区"
+PRC_DEF: "解放区"
+PRC_marxism_leninism: "解放区"
+PRC_marxism_leninism_ADJ: "解放区"
+PRC_marxism_leninism_DEF: "解放区"
 # 党派
 PRC_marxism_leninism_party: "中国共产党"
 PRC_marxism_leninism_party_long: "中国共产党"

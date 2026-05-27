@@ -1,3 +1,2 @@
 capital = 278
 
-oob = "ARG_1936"

@@ -1,3 +1,2 @@
 capital = 256 #Cheboksary
 
-#oob = "CHU_1936"

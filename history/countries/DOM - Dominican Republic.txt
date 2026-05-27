@@ -1,3 +1,2 @@
 capital = 319
 
-oob = "DOM_1936"

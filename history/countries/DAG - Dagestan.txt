@@ -1,3 +1,2 @@
 capital = 232 #Machakala
 
-#oob = "DAG_1936"

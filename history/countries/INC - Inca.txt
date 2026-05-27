@@ -1,3 +1,2 @@
 capital = 494 #Cusco
 
-oob = "CHL_1936"

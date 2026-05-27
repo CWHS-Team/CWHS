@@ -1,0 +1,25 @@
+﻿l_simp_chinese:
+DDR: "东德"
+DDR_ADJ: "东德"
+DDR_DEF: "东德"
+DDR_occupation: "苏联军事占领区"
+DDR_occupation_ADJ: "苏联军事占领区"
+DDR_occupation_DEF: "苏联军事占领区"
+# 党派
+DDR_marxism_leninism_party: "驻德苏联军事管理委员会"
+DDR_marxism_leninism_party_long: "驻德苏联军事管理委员会"
+DDR_state_capitalism_party: "企业/生产合作社"
+DDR_state_capitalism_party_long: "企业/生产合作社"
+DDR_social_democracy_party: "德国基督教民主联盟"
+DDR_social_democracy_party_long: "德国基督教民主联盟"
+DDR_nationalism_party: "民主德国文化协会"
+DDR_nationalism_party_long: "民主德国文化协会"
+DDR_liberalism_party: "德国自由民主党"
+DDR_liberalism_party_long: "德国自由民主党"
+DDR_reactionism_party: "反不人道战斗组"   
+DDR_reactionism_party_long: "反不人道战斗组"
+# 国家领导人
+DDR_vasily_sokolovsky: "瓦西里·索科洛夫斯基"
+DDR_vasily_sokolovsky_leader_desc: ""
+#国策
+#事件

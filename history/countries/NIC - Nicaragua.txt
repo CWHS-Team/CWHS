@@ -1,3 +1,2 @@
 capital = 317
 
-oob = "NIC_1936"

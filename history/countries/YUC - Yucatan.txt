@@ -1,3 +1,2 @@
 capital = 474 #Cancún, Yucatan
 
-oob = "MEX_1936"

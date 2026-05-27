@@ -1,3 +1,2 @@
 capital = 291 # Baghdad
 
-oob = "IRQ_1936"

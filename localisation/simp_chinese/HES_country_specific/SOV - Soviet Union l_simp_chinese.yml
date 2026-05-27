@@ -3,6 +3,12 @@
 SOV: "苏维埃社会主义共和国联盟"
 SOV_ADJ: "苏联"
 SOV_DEF: "苏维埃社会主义共和国联盟"
+SOV_marxism_leninism: "苏维埃社会主义共和国联盟"
+SOV_marxism_leninism_ADJ: "苏联"
+SOV_marxism_leninism_DEF: "苏维埃社会主义共和国联盟"
+SOV_state_capitalism: "苏维埃社会主义共和国联盟"
+SOV_state_capitalism_ADJ: "苏联"
+SOV_state_capitalism_DEF: "苏维埃社会主义共和国联盟"
 # 党派
 SOV_marxism_leninism_party: "联共（布）"
 SOV_marxism_leninism_party_long: "全联盟共产党（布尔什维克）\n§L1§!\n"

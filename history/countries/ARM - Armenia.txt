@@ -1,3 +1,2 @@
 capital = 230 #Yerevan, Armenia
 
-oob = "AZR_1936"

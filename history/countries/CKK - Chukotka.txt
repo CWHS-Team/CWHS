@@ -1,3 +1,2 @@
 capital = 822 #Anadyr
 
-#oob = "CKK_1936"

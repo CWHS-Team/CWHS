@@ -1,3 +1,2 @@
 capital = 41 # Madrid
 
-oob = "SPR_1936"

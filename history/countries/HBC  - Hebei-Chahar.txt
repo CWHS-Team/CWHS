@@ -1,3 +1,2 @@
 capital = 608 # Beiping
 
-oob = "HBC_1936_sea"

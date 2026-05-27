@@ -1,3 +1,2 @@
 capital = 1
 
-#oob = ""

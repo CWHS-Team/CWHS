@@ -1,3 +1,2 @@
 capital = 463 #Anchorage
 
-oob = "CHL_1936"

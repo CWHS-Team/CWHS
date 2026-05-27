@@ -1,3 +1,2 @@
 capital = 547
 
-oob = "KEN_1936"
