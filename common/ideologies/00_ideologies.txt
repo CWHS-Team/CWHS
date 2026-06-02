@@ -94,7 +94,7 @@ ideologies = {
 		types = {
 			social_democracy_subtype = {}
 		}
-		color = { 199 23 72 }
+		color = { 255 105 180 }
 
 		## Rules (identical for each ideology)
 		rules = {

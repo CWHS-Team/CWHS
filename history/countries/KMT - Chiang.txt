@@ -2,3 +2,19 @@ capital = 1035 # Nanjing
 
 #国家领导人 Country Leaders#
 recruit_character = KMT_chiang_kai_shek
+
+#政治
+set_politics = {
+	ruling_party = reactionism
+	election_frequency = -1
+	elections_allowed = no
+}
+
+set_popularities = {
+	marxism_leninism = 0
+	state_capitalism = 0
+	nationalism = 28
+	social_democracy = 0
+	liberalism = 11
+	reactionism = 61
+}

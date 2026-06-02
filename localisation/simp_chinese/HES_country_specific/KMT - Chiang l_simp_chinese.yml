@@ -1,5 +1,5 @@
 ﻿l_simp_chinese:
-# 国家名称
+  # 国家名称
 KMT: "国民党区"
 KMT_ADJ: "国民党区"
 KMT_DEF: "国民党区" 
@@ -12,8 +12,8 @@ KMT_social_democracy_party: "中国民主同盟"
 KMT_social_democracy_party_long: "中国民主同盟"
 KMT_nationalism_party: "中国青年党"
 KMT_nationalism_party_long: "中国青年党"
-KMT_liberalism_party: "国民党反动派"
-KMT_liberalism_party_long: "国民党反动派"
+KMT_liberalism_party: "中国民主社会党"
+KMT_liberalism_party_long: "中国民主社会党"
 KMT_reactionism_party: "国民党反动派"   
 KMT_reactionism_party_long: "国民党反动派"
 # 国家领导人

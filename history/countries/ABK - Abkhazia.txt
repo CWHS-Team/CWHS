@@ -1,2 +1,16 @@
 capital = 826 #Sukhumi
 
+
+set_popularities = {
+	marxism_leninism = 0
+	state_capitalism = 0
+	nationalism = 0
+	social_democracy = 0
+	liberalism = 100
+	reactionism = 0
+}
+set_politics = {
+ruling_party = liberalism
+election_frequency = -1
+elections_allowed = no
+}
