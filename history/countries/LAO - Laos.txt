@@ -1,3 +1,16 @@
 capital = 670 #today Vientiane in 1945 Luang Prabang sel proclaimed indie Laos 
 
-oob = "LAO_1936"
+
+set_popularities = {
+	marxism_leninism = 0
+	state_capitalism = 0
+	nationalism = 0
+	social_democracy = 0
+	liberalism = 100
+	reactionism = 0
+}
+set_politics = {
+ruling_party = liberalism
+election_frequency = -1
+elections_allowed = no
+}

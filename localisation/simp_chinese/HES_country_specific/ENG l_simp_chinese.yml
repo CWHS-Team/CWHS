@@ -1,0 +1,22 @@
+﻿l_simp_chinese:
+ENG: "联合王国"
+ENG_ADJ: "联合王国"
+ENG_DEF: "联合王国"
+# 党派
+ENG_marxism_leninism_party: "英国共产党"
+ENG_marxism_leninism_party_long: "英国共产党"
+ENG_state_capitalism_party: "大不列颠社会党"
+ENG_state_capitalism_party_long: "大不列颠社会党"
+ENG_social_democracy_party: "工党"
+ENG_social_democracy_party_long: "工党"
+ENG_nationalism_party: "苏格兰民族党"
+ENG_nationalism_party_long: "苏格兰民族党"
+ENG_liberalism_party: "保守党"
+ENG_liberalism_party_long: "保守党"
+ENG_reactionism_party: "联合运动"   
+ENG_reactionism_party_long: "联合运动"
+# 国家领导人
+ENG_clement_atlee: "克莱门特·艾德礼"
+ENG_clement_atlee_leader_desc: ""
+#国策
+#事件

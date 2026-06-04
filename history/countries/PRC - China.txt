@@ -2,3 +2,19 @@ capital = 608 #Beijing
 
 #国家领导人 Country Leaders#
 recruit_character = PRC_mao_zedong
+
+#政治
+set_politics = {
+	ruling_party = marxism_leninim
+	election_frequency = -1
+	elections_allowed = no
+}
+
+set_popularities = {
+	marxism_leninism = 30
+	state_capitalism = 5
+	nationalism = 13
+	social_democracy = 16
+	liberalism = 34
+	reactionism = 2	
+}

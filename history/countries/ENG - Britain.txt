@@ -1,1 +1,30 @@
 capital = 126
+
+#国家领导人 Country Leaders#
+recruit_character = ENG_Clement_Atlee
+
+#政治
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1945.7.5"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+set_popularities = {
+	marxism_leninism = 1
+	state_capitalism = 0
+	nationalism = 0
+	social_democracy = 49	
+	liberalism = 50
+	reactionism = 0	
+}	
+
+set_popularities = {
+	marxism_leninism = 0
+	state_capitalism = 0
+	nationalism = 0
+	social_democracy = 0
+	liberalism = 100
+	reactionism = 0
+}

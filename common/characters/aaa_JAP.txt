@@ -1,0 +1,10 @@
+characters = {
+	#国家领导人 Country Leaders
+	JAP_douglas_macarthur = {
+		name = JAP_douglas_macarthur
+		country_leader = {
+			desc = JAP_douglas_macarthur_leader_desc
+			ideology = liberalism_subtype
+		}	
+	}
+}

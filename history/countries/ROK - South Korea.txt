@@ -1,1 +1,19 @@
 capital = 525
+
+#国家领导人 Country Leaders#
+recruit_character = ROK_rhee_syngman
+#政治
+set_politics = {
+	ruling_party = reactionism
+	election_frequency =-1
+	elections_allowed = no
+}
+
+set_popularities = {
+	marxism_leninism = 1
+	state_capitalism = 1
+	nationalism = 1
+	social_democracy = 1
+	liberalism = 4
+	reactionism = 92
+}

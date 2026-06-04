@@ -1,0 +1,10 @@
+characters = {
+	#国家领导人 Country Leaders
+	KOR_kim_il_sung = {
+		name = KOR_kim_il_sung
+		country_leader = {
+			desc = KOR_kim_il_sung_leader_desc
+			ideology = marxism_leninism_subtype
+		}	
+	}
+}		

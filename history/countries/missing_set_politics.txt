@@ -1,0 +1,352 @@
+ABK - Abkhazia.txt
+ADU - Andalusia.txt
+AFA - Afar.txt
+AFG - Afghanistan.txt
+ALB - Albania.txt
+ALG - Algeria.txt
+ALT - Altai Republic.txt
+ANG - Angola.txt
+ANU - Ainu.txt
+AOI - Italian East Africa.txt
+ARG - Argentina.txt
+ARM - Armenia.txt
+AST - Australia.txt
+ASY - Assyria.txt
+AUS - Austria.txt
+AZR - Azerbaijan.txt
+BAH - Bahamas.txt
+BAN - Bangladesh.txt
+BAR - Barotseland.txt
+BAS - British Antilles.txt
+BAY - Bavaria.txt
+BEG - Benishangul-Gumuz.txt
+BEL - Belgium.txt
+BHR - Bahrain.txt
+BHU - Bhutan.txt
+BIA - Biafra.txt
+BLC - Balochistan.txt
+BLR - Belarus.txt
+BLZ - Belize.txt
+BOL - Bolivia.txt
+BOS - Bosnia.txt
+BOT - Botswana.txt
+BRA - Brazil.txt
+BRD - Burundi.txt
+BRI - Brittany.txt
+BRM - Burma.txt
+BRN - Brunei.txt
+BSK - Bashkortostan.txt
+BUK - Bukharan Republic.txt
+BUL - Bulgaria.txt
+BYA - Buryatia.txt
+CAM - Cambodia.txt
+CAN - Canada.txt
+CAR - Central African Republic.txt
+CAT - Catalonia.txt
+CAY - Cayenne.txt
+CBV - Cabo Verde.txt
+CHA - Chad.txt
+CHL - Chile.txt
+CHM - Champa.txt
+CHR - Charrua.txt
+CHU - Chuvashia.txt
+CIN - Chechnya-Ingushetia.txt
+CIP - Central Indian Provinces.txt
+CKK - Chukotka.txt
+CMR - Cameroon.txt
+COG - Congo.txt
+COL - Colombia.txt
+COR - Corsica.txt
+COS - Costa Rica.txt
+CRC - Curacao.txt
+CRI - Crimea.txt
+CRO - Croatia.txt
+CSA - CSA.txt
+CUB - Cuba.txt
+CYP - Cyprus.txt
+CZE - Czechoslovakia.txt
+DAG - Dagestan.txt
+DAH - Dahomey.txt
+DEI - Dutch East Indies.txt
+DEN - Denmark.txt
+DIP - Partisans.txt
+DJI - Djibouti.txt
+DNZ - Danzig.txt
+DOM - Dominican Republic.txt
+DON - Don Republic.txt
+ECU - Ecuador.txt
+EGY - Egypt.txt
+ELS - El Salvador.txt
+EQG - Equatorial Guinea.txt
+ERI - Eritrea.txt
+EST - Estonia.txt
+ETH - Ethiopia.txt
+EVE - Evenkia.txt
+EZO - Ezo Republic.txt
+FER - Far Eastern Republic.txt
+FIJ - Fiji.txt
+FIN - Finland.txt
+FOR - Formosa.txt
+FRA - France.txt
+FSA - Federation of South Arabia.txt
+FSM - Micronesia.txt
+GAB - Gabon.txt
+GAL - Galicia and Lodomeria.txt
+GAM - The Gambia.txt
+GAR - Guarani.txt
+GBA - Gambela.txt
+GDC - Guangdong.txt
+GDL - Guadeloupe.txt
+GEN - Generalgouvernement.txt
+GEO - Georgia.txt
+GHA - Ghana.txt
+GLC - Galicia.txt
+GNA - Guinea.txt
+GNB - Guinea-Bissau.txt
+GRE - Greece.txt
+GRN - Greenland.txt
+GSM - Gansu Ma.txt
+GUA - Guatemla.txt
+GUM - Guam.txt
+GXC - Guangxi.txt
+GYA - Guyana.txt
+HAI - Haiti.txt
+HAN - Hanover.txt
+HAR - Harar.txt
+HAW - Hawaii.txt
+HBC  - Hebei-Chahar.txt
+HES - Hesse.txt
+HOL - Holland.txt
+HON - Honduras.txt
+HRZ - Herzegovina.txt
+HUN - Hungary.txt
+HYD - Hyderabad.txt
+IAS - Isthmo Amerindia.txt
+ICE - Iceland.txt
+IMO - Omani Imamate.txt
+INC - Inca.txt
+INS - Indonesia.txt
+INU - Inuit.txt
+IRE - Ireland.txt
+IRQ - Iraq.txt
+ISR - Israel.txt
+ITA - Italy.txt
+ITZ - Itza.txt
+IVO - Ivory Coast.txt
+JAM - Jamaica.txt
+JAN - Jan Mayen.txt
+JOR - Jordan.txt
+KAL - Kalmykia.txt
+KAR - Karelia.txt
+KAS - Kashmir.txt
+KAT - Katanga.txt
+KAZ - Kazakhstan.txt
+KBK - Kabardino-Balkaria.txt
+KEN - Kenya.txt
+KHA - Khakassia.txt
+KHI - Khiva.txt
+KHL - Khalistan.txt
+KHM - Khotan Ma.txt
+KKP - Karakalpakstan.txt
+KLT -Kalat.txt
+KOL - Kolhapur and Deccan States.txt
+KOM - Komi Republic.txt
+KOS - Kosovo.txt
+KSH - Kashubia.txt
+KUB - Kuban Republic.txt
+KUM - Kumul Khanate.txt
+KUR - Kurdistan.txt
+KUW - Kuwait.txt
+KYR - Kyrgyzstan.txt
+LAO - Laos.txt
+LAT - Latvia.txt
+LBA - Libya.txt
+LBV - Lombardy Venetia.txt
+LEB - Lebanon.txt
+LIB - Liberia.txt
+LIT - Lithuania.txt
+LUX - Luxemburg.txt
+MAC - Macedonia.txt
+MAD - Madagascar.txt
+MAL - Malaysia.txt
+MAN - Manchukou.txt
+MAY - Maya.txt
+MEK - Mecklenburg.txt
+MEL - Mari El.txt
+MEN - Mengkukuo.txt
+MEX - Mexico.txt
+MIS - Miskito.txt
+MLD - Maldives.txt
+MLI - Mali.txt
+MLT - Malta.txt
+MLW - Malawi.txt
+MNT - Montenegro.txt
+MOL - Moldova.txt
+MON - Mongolia.txt
+MOR - Morocco.txt
+MPU - Manipur.txt
+MRT - Mauritania.txt
+MYS - Mysore.txt
+MZB - Mozambique.txt
+NAH - Nahua.txt
+NAV - Navarra.txt
+NEN - Nenetsia.txt
+NEP - Nepal.txt
+NGA - Nigeria.txt
+NGR - Niger.txt
+NIC - Nicaragua.txt
+NIR - Northern Ireland.txt
+NMB - Namibia.txt
+NOA - North Ossetia-Alania.txt
+NOR - Norway.txt
+NWF - North Western Frontier States.txt
+NXM - Ningxia Ma.txt
+NZL - New Zealand.txt
+OCC - Occitania.txt
+OKN - Okinawa.txt
+OMA - Oman.txt
+ORO - Oromo.txt
+OVO - Ostyakia Vogulia.txt
+PAK - Pakistan.txt
+PAL - Palestine.txt
+PAN - Panama.txt
+PAP - Papal States.txt
+PAR - Paraguay.txt
+PER - Persia.txt
+PHI - Philippines.txt
+PLU - Palau.txt
+PNG - Papua New Guinea.txt
+POL - Poland.txt
+POR - Portugal.txt
+PRE - Prussia.txt
+PRU - Peru.txt
+PSH - Pashtunistan.txt
+PSR - Philippine Second Republic.txt
+PUE - Puerto Rico.txt
+QAT - Qatar.txt
+QEM - Qemant.txt
+QUE - Quebec.txt
+RAA - Reichskommisariat Australasien.txt
+RAJ - British Raj.txt
+RAN - Reichskommisariat Anden.txt
+RAP - Rapa Nui.txt
+RAR - Reichskommisariat Arabien.txt
+RAS - Madras States.txt
+RCG - Republic of Congo.txt
+RCO - Reichskommisariat Kolumbus.txt
+RGB - Reichskommisariat Grossbritannien.txt
+RHD - Reichskommisariat Grosshindustan.txt
+RHI - Rhineland.txt
+RIF - Rif.txt
+RIG - Rio Grande.txt
+RJP - Rajputana.txt
+RKA - Reichskommisariat Mittelafrika.txt
+RKB - Reichskommisariat Belgien.txt
+RKC - Reichskommisariat Balkan.txt
+RKG - Reichskommisariat Norwegen.txt
+RKH - Bohmen Mahren.txt
+RKI - Reichskommisariat Iberien.txt
+RKK - Reichskommisariat Kaukasien.txt
+RKL - Reichskommisariat Urals.txt
+RKM - Reichskommisariat Moskowien.txt
+RKN - Reichskommisariat Niederlande.txt
+RKO - Reichskommisariat Ostland.txt
+RKT - Reichskommisariat Turkestan.txt
+RKU - Reichskommisariat Ukraine.txt
+RKV - Reichskommisariat Klein Venedig.txt
+RNA - Reichskommisariat Nordafrika.txt
+RNG - Reorganized National Government.txt
+ROA - Reichskommisariat Ostasien.txt
+ROM - Romania.txt
+RUS - Reichskommisariat Nordamerika.txt
+RUT - Ruthenia.txt
+RWA - Rwanda.txt
+SAB - Sabah.txt
+SAF - South Africa.txt
+SAM - Samoa.txt
+SAR - Sarawak.txt
+SAU - Saudi Arabia.txt
+SAX - Saxony.txt
+SCO - Scotland.txt
+SDL - Sudetenland.txt
+SEN - Senegal.txt
+SER - Serbia.txt
+SHL - Schleswig-Holstein.txt
+SHX - Shanxi.txt
+SIA - Siam.txt
+SIC - Sichuan.txt
+SID - Sidamo.txt
+SIE - Sierra Leone.txt
+SIK - Sinkiang.txt
+SIL - Silesia.txt
+SIN - Sindh.txt
+SKK - Sikkim.txt
+SLO - Slovakia.txt
+SLV - Slovenia.txt
+SMI - Sami.txt
+SND - Shandong.txt
+SNG - Singapore.txt
+SOK - Sokoto.txt
+SOL - Solomon Islands.txt
+SOM - Somalia.txt
+SPM - Sardinia Piedmont.txt
+SPR - Spain.txt
+SRL - Sri Lanka.txt
+SUD - Sudan.txt
+SUR - Suriname.txt
+SWE - Sweden.txt
+SWI - Switzerland.txt
+SYR - Syria.txt
+TAH - Tahiti.txt
+TAJ - Tajikistan.txt
+TAN - Tannu Tuva.txt
+TAT - Tatarstan.txt
+TAY - Taymyria.txt
+THU - Thuringia.txt
+TIB - Tibet.txt
+TIG - Tigray.txt
+TML - Timor Leste.txt
+TMS - Turkmenistan.txt
+TOG - Togo.txt
+TOS - Tuscany.txt
+TRA - Transylvania.txt
+TRI - Trinidad and Tobago.txt
+TTS - The Two Sicilies.txt
+TUN - Tunisia.txt
+TUR - Turkey.txt
+TZN - Tanzania.txt
+UAE - United Arab Emirates.txt
+UBD - United Baltic Duchy.txt
+UDM - Udmurtia.txt
+UGA - Uganda.txt
+UKR - Ukraine.txt
+URG - Uruguay.txt
+USB - USB.txt
+UZB - Uzbekistan.txt
+VEN - Venezula.txt
+VGE - Volga Germany.txt
+VIN - Vietnam.txt
+VLA - Vladivostok.txt
+VOL - Upper Volta.txt
+WES - Western Sahara.txt
+WGR - West Germany.txt
+WIS - Western Indian States.txt
+WLA - Welsh Argentina.txt
+WLS - Wales.txt
+WPG - West Papua.txt
+WUR - Wurtemberg.txt
+XIC - Xi'An.txt
+XSM - Xibei San Ma.txt
+YAK - Yakutia.txt
+YAM - Yamalia.txt
+YEM - Yeman.txt
+YUC - Yucatan.txt
+YUG - Yugoslavia.txt
+YUN - Yunnan.txt
+ZAM - Zambia.txt
+ZIM - Zimbabwe.txt
+set_politics = {
+ruling_party = liberalism
+election_frequency = -1
+elections_allowed = no
+}

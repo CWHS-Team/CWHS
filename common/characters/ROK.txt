@@ -1,0 +1,10 @@
+characters = {
+	#国家领导人 Country Leaders
+	ROK_rhee_syngman = {
+		name = ROK_rhee_syngman
+		country_leader = {
+			desc = ROK_rhee_syngman_leader_desc
+			ideology = reactionism_subtype
+		}	
+	}
+}

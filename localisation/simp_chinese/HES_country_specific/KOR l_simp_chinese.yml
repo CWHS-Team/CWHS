@@ -1,0 +1,20 @@
+﻿l_simp_chinese:
+# 国家名称
+KOR: "朝鲜民主主义人民共和国"
+KOR_ADJ: "朝鲜民主主义人民共和国"
+KOR_DEF: "朝鲜民主主义人民共和国"
+# 党派
+KOR_marxism_leninism_party: "朝鲜劳动党"
+KOR_marxism_leninism_party_long: "朝鲜劳动党"
+KOR_state_capitalism_party: "朝鲜劳动党"
+KOR_state_capitalism_party_long: "朝鲜劳动党"
+KOR_social_democracy_party: "朝鲜民主党"
+KOR_social_democracy_party_long: "朝鲜民主党"
+KOR_nationalism_party: "天道教青友党"
+KOR_nationalism_party_long: "天道教青友党 "
+KOR_liberalism_party: "民主独立党"
+KOR_liberalism_party_long: "民主独立党"
+KOR_reactionism_party: "国民会"   
+KOR_reactionism_party_long: "国民会" 
+# 国家领导人
+KOR_kim_il_sung: "金日成"

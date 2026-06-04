@@ -1,3 +1,31 @@
 capital = 64
 
 set_cosmetic_tag = DDR_occupation
+
+#国家领导人 Country Leaders#
+recruit_character = DDR_vasily_sokolovsky
+
+#政治
+set_politics = {
+	ruling_party = marxism_leninism
+	election_frequency = -1
+	elections_allowed = no
+}
+
+set_popularities = {
+	marxism_leninism = 39
+	state_capitalism = 7
+	nationalism = 3
+	social_democracy = 36
+	liberalism = 15	
+	reactionism = 0	
+}	
+
+set_popularities = {
+	marxism_leninism = 0
+	state_capitalism = 0
+	nationalism = 0
+	social_democracy = 0
+	liberalism = 100
+	reactionism = 0
+}

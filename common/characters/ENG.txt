@@ -1,0 +1,10 @@
+characters = {
+	#国家领导人 Country Leaders
+	ENG_clement_atlee = {
+		name = ENG_clement_atlee
+		country_leader = {
+			desc = ENG_clement_atlee_leader_desc
+			ideology = social_democracy_subtype
+		}	
+	}
+}
