@@ -34,7 +34,7 @@ ideologies = {
 		types = {
 			state_capitalism_subtype = {} #generic
 		}
-		color = { 119 15 0 }
+		color = { 136 8 8 }
 
 		## Rules (identical for each ideology)
 		rules = {
@@ -154,7 +154,7 @@ ideologies = {
 		types = {
 			reactionism_subtype = {}
 		}
-		color = { 29 29 27 }
+		color = { 0 0 0 }
 
 		## Rules (identical for each ideology)
 		rules = {

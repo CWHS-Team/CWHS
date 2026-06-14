@@ -1,7 +1,4 @@
 technologies = {
-	@anti_air = -7
-	@anti_tank = 7
-	@rocket_artillery = 3
 
 	gw_artillery = {
 
@@ -310,6 +307,7 @@ technologies = {
 
 		enable_equipment_modules = {
 			tank_medium_cannon_2
+			tank_small_cannon_3
 		}
 
 		path = {
@@ -461,6 +459,21 @@ technologies = {
 	}
 
 	artillery_b = {
+
+		artillery = {
+			soft_attack = 0.1
+		}
+
+		artillery_brigade = {
+			soft_attack = 0.1
+		}
+
+		mot_artillery_brigade = {
+			soft_attack = 0.1
+		}
+		category_self_propelled_artillery = {
+			soft_attack = 0.1
+		}
 		
 		path = {
 			leads_to_tech = artillery_c
@@ -550,9 +563,7 @@ technologies = {
 		artillery_brigade = {
 			soft_attack = 0.1
 		}
-		heavy_artillery_brigade = {
-			soft_attack = 0.1
-		}
+
 		mot_artillery_brigade = {
 			soft_attack = 0.1
 		}
@@ -586,17 +597,6 @@ technologies = {
 
 	artillery_e = {
 		
-		
-		heavy_artillery_cpy = {
-			battalion_mult = {
-				category = category_line_artillery				
-				default_morale = 0.1
-			}		
-			battalion_mult = {
-				category = category_line_artillery
-				max_organisation = 0.05
-			}
-		}
 		
 		enable_equipment_modules = {
 			tank_medium_howitzer_5
@@ -701,6 +701,7 @@ technologies = {
 		enable_equipment_modules = {
 			tank_rocket_launcher
 			rocket_rails
+			secondary_anti_tank_rocket
 			lc_rocket_launcher #Module for Land Cruiser
 		}
 
@@ -940,10 +941,6 @@ technologies = {
 
 		enable_equipments = {
 			rocket_artillery_equipment_3
-		}
-
-		enable_equipment_modules = {
-			tank_rocket_launcher_3
 		}
 	
 		
@@ -1995,7 +1992,6 @@ technologies = {
 
 		enable_equipment_modules = {
 			tank_anti_air_cannon_5
-			radar_fire_director
 			radar_guided_aa_cannon
 		}
 		
@@ -2918,7 +2914,6 @@ technologies = {
 
 		allow = {
 	 		ROOT = {
-				is_special_project_completed = sp:sp_land_super_heavy_howitzer
 				has_tech = experimental_rockets
 			}
 		}
