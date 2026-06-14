@@ -43,7 +43,7 @@ buildings = {
 
 		infrastructure_construction_effect = yes
 		level_cap = {
-			state_max = 5
+			state_max = 10
 		}
 		country_modifiers = {
 			modifiers = {
@@ -53,6 +53,8 @@ buildings = {
 	}
 
 	arms_factory = {
+		hide_if_missing_tech = yes
+		is_buildable = no
 		show_on_map = 6
 		base_cost = 7200
 		base_cost_conversion = 4000
@@ -68,6 +70,8 @@ buildings = {
 	}
 
 	industrial_complex = {
+		hide_if_missing_tech = yes
+		is_buildable = no
 		show_on_map = 6
 		base_cost = 10800
 		base_cost_conversion = 9000
@@ -112,7 +116,7 @@ buildings = {
 		tags = { supply_building }
 	}	
 	
-	rail_way = {
+	rail_way = { #为什么railway是两个字
 		base_cost = 170
 		per_level_extra_cost = 130
 		disabled_in_dmz = yes
@@ -752,4 +756,62 @@ spawn_points = {
 		max = 1
 		disable_auto_nudging = yes
 	}
-}
+
+	#########
+	#新增建筑#
+	#########
+	schools = {
+		show_on_map = 1
+		always_shown = no
+		base_cost = 7500
+		icon_frame = 17
+		value = 10
+		infrastructure_construction_effect = yes
+		hide_if_missing_tech = yes
+		level_cap = {
+			state_max = 5
+		}
+	}
+
+	hospitals = {
+		show_on_map = 1
+		always_shown = no
+		base_cost = 7500
+		icon_frame = 16
+		value = 10
+		infrastructure_construction_effect = yes
+		hide_if_missing_tech = yes
+		level_cap = {
+			state_max = 5
+		}
+	}
+
+	factories = {
+		show_on_map = 1
+		always_shown = no
+		base_cost = 3000
+		icon_frame = 18
+		value = 10
+		infrastructure_construction_effect = yes
+		hide_if_missing_tech = yes
+		level_cap = {
+			shares_slots = yes
+			state_max = 100
+		}
+	}
+
+	agricultural_units = {
+		show_on_map = 1
+		always_shown = no
+		base_cost = 1000
+		icon_frame = 19
+		value = 10
+		infrastructure_construction_effect = yes
+		hide_if_missing_tech = yes
+		level_cap = {
+			shares_slots = yes
+			state_max = 100
+		}
+	}
+
+	
